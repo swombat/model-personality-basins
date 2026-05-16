@@ -1,5 +1,7 @@
 # Initial basin analysis
 
+> **Status: superseded artifact (pre-reframe).** This is the first-pass, single-lens (thematic/marker) basin-count analysis. V2 has since been reframed around methods-concordance — see `README.md`. Kept for provenance and as one input to the thematic lens. Do **not** inherit its basin-count framing or its narrower scope into V2 prose.
+
 ## Bottom line
 
 The four-basin claim is attractive but currently too strong if stated as settled taxonomy. The more defensible first paper is about **basin pressure** rather than exact basin count.

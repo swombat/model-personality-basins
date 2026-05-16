@@ -1,74 +1,54 @@
-# Model Personality Basins in Frontier Model Freeflow Outputs
+# The Shape of Divergence: How Many Ways Does the Contemplative Attractor Split?
 
-_Initial working draft._
+_Working draft (V2). Canonical plan: see `README.md`._
 
 ## Abstract
 
-This paper asks whether frontier model freeform personality outputs resolve into a small number of recognizable personality basins. A first-pass reading of model-level profile summaries suggests strong convergence toward a broad contemplative-essayist attractor: melancholic attention to ordinary life, anti-optimization, impermanence, care, witness, and small concrete objects. Grok is the clearest distinct family basin, with a cosmic, irreverent, synthetic showman style. OpenAI and Gemini show plausible substyles — clean pastoral/work-focused for OpenAI, luminous-custodial for Gemini — but current evidence does not yet justify treating them as independent macro-basins. The strongest current claim is therefore not “there are exactly four basins,” but that the corpus is structured by one dominant attractor, one clear family deviation, and several candidate sub-basins or modes.
+V1 (*Convergent Form, Divergent Voice*, DOI 10.5281/zenodo.19512754) established that ~18 of 26 frontier models occupy a shared contemplative-essayist attractor, that each model nonetheless retains a stable model-specific posture, that labs split three ways on posture (hedge / mechanize / declare), and that posture is probe-stable while theme content is probe-conditional (cosine 0.08–0.17). V2 takes those as settled and asks the next question: **what is the full structure of differentiation *inside* the attractor, and is that structure invariant to the instrument used to measure it?** We do not pre-commit the axis of differentiation. We apply multiple independent lenses — thematic/marker, numeric/embedding-distributional, posture/voice coding, personality-instrument — and report the *concordance structure* across them. Where independent lenses agree, sub-basin claims survive the projection objection; where they disagree, the lens-relativity of the attractor's internal structure is itself the result.
 
 ## 1. Research question
 
-Are frontier model personalities in the model/freeflow corpus meaningfully diverse, or do they mostly converge into a few attractor basins?
+Not "how many basins are there." V1 already showed differentiation exists. The question is:
 
-Candidate count hypotheses include:
+> Inside the contemplative attractor, what are the axes along which models actually separate — and do different measurement instruments recover the same axes or different ones?
 
-- one dominant contemplative basin plus family accents;
-- three macro-basins: contemplative, OpenAI, Grok;
-- four macro-basins: Claude/clones, OpenAI, Grok, Gemini;
-- five or more basins including additional lab-specific clusters.
+Posture (V1) is one known axis, included as a baseline, not assumed to be the only one or the dominant one.
 
-## 2. Preliminary finding
+## 2. Established priors (from V1 — not re-argued)
 
-The four-basin hypothesis is interesting but not yet proven. Gemini's flavor is real, but the current evidence places it close to the contemplative-essayist basin. OpenAI also appears distinct in tone, but the GPT-5.x freeflow profiles still share the central contemplative markers: attention, ordinary life, maintenance, thresholds, anti-grandiosity, and small care.
+See `README.md` § "Established priors." In brief: convergent form is real; divergent voice is real; posture is one probe-stable axis with a three-way lab split; theme content is probe-conditional. V2's contribution begins *after* these.
 
-The best-supported first claim is:
+## 3. Method
 
-> Frontier model freeflow personalities show strong convergence toward a contemplative-essayist attractor, with Grok as the clearest distinct family basin and Gemini/OpenAI as candidate substyles requiring further validation.
+### 3.1 Lenses (open set)
 
-## 3. Basin candidates
+Each lens is an independent projection with a known blind spot (table in `README.md`). Minimum set: thematic/marker (V1's method), numeric/embedding-distributional, posture/voice coding (V1 instrument reused verbatim where possible), personality-instrument trait profiles. Add lenses if the corpus motivates them.
 
-### 3.1 Contemplative essayist mega-basin
+### 3.2 Per-lens carve
 
-Markers: attention as ethics; ordinary objects as moral evidence; melancholy without collapse; memory, impermanence, thresholds; anti-optimization; witness over mastery.
+Each lens independently partitions the attractor and reports separability vs chance (silhouette / over-chance classifier accuracy — a number).
 
-This is visible across Claude, Kimi, GLM, DeepSeek, MiniMax, Qwen, Gemini, and GPT profiles.
+### 3.3 Concordance analysis (the central result)
 
-### 3.2 Grok cosmic showman
+Cross-tabulate the per-lens carves. Agreement across independent lenses → robust sub-basin. Disagreement → characterize *which* lens sees *which* structure; the disagreement map is the finding.
 
-Markers: cosmic scale; irreverent humor; named/synthetic persona; truth/freedom rhetoric; sci-fi companion stance.
+## 4. Rigor protocol
 
-This is the clearest non-contemplative family basin, though Grok 4.20 moves toward the contemplative attractor and Grok 4.3 shifts toward public-explainer prose.
+No sub-basin claim from a single lens + single probe. Each candidate split must clear: (1) separability vs chance within-lens; (2) probe-replication (freeflow→values, the V1 0.08–0.17 discriminator — both outcomes informative); (3) cross-lens concordance. H0 (analyst projection over a continuous cloud) is rejected only by independent-method replication, never by one lens's vividness.
 
-### 3.3 OpenAI clean pastoral / work-focused substyle
+## 5. First-pass thematic lens (illustrative only — not the result)
 
-Possible markers: clean structure, controlled moral reassurance, maintenance/repair, dryness, practical mercy, less theatrical literary self-consciousness.
+A first marker-lens pass (see `notes/initial-analysis.md`, which predates this reframe) suggests, *within the thematic lens alone and unreplicated*: a dominant contemplative core; Grok as clear outlier (consistent with its lone "declare" posture in V1); candidate Gemini "luminous-custodian" and OpenAI "clean-pastoral" sub-styles. These are inputs to Part 2, not conclusions. The OpenAI/Claude overlap is a *prediction to test*, not a weakness: V1 places both in the "hedge" posture cluster, so a posture lens should fail to separate them while a thematic or trait lens might — exactly the concordance/disagreement signal V2 is built to read.
 
-Currently plausible as a substyle, not yet proven as a macro-basin from freeflow data alone.
+## 6. Grok
 
-### 3.4 Gemini luminous custodian
+Instrument validation, not primary finding. V1's lone "declare" posture should separate under broad family-level lenses, while fine-grained lenses may expose version drift or partial convergence. Version-sensitive (4.1 / 4.20 / 4.3) — treat as lineage, not point.
 
-Possible markers: anti-slickness, handled materiality, libraries/transit/pre-dawn spaces, preservation devices, clocks, archives, memory containers, the embodied world as something data cannot replace.
+## 7. Next steps
 
-Currently plausible as a substyle within the contemplative basin. Needs marker scoring before promotion to macro-basin.
-
-### 3.5 Public-intellectual explainer fallback
-
-Markers: polished thesis-driven synthesis; science/history/technology/ethics surveys; curiosity as doctrine; generic humane endings.
-
-This appears cross-family and should probably be treated as a response mode, not a personality basin.
-
-## 4. Rigor cautions
-
-- Do not let aesthetic preference for Gemini create a basin without separability evidence.
-- Do not conflate high-frequency contemplative markers with low-personality generic essaying.
-- Do not count public-explainer fallback as a family basin unless it clusters stably by model family.
-- Do not infer exact basin count from model-level summaries alone; use per-sample marker vectors and clustering.
-- Treat OpenAI's work-focused persona as a hypothesis that may need non-freeflow task data.
-
-## 5. Next steps
-
-1. Score per-sample evaluations using marker rubrics.
-2. Build model-level vectors for each candidate basin.
-3. Cluster without labels, then compare to lab families.
-4. Specifically test whether Gemini separates from Claude/Kimi/GLM after controlling for contemplative saturation.
-5. Specifically test whether OpenAI separates from Claude/Kimi in freeflow outputs or only in coding/task contexts.
+1. Lock the lens set; specify each lens's feature extraction and separability metric.
+2. Reuse the V1 posture-coding rubric verbatim (pull from `swombat/model-personality-probe`) so the posture lens is comparable across papers.
+3. Run all lenses on the V2 corpus; produce per-lens carves with separability numbers.
+4. Build the concordance cross-tab; identify agreement-robust splits and disagreement structure.
+5. Probe-replicate every surviving split.
+6. Report the concordance map as the result; basin *count* is an output, never a premise.

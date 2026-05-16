@@ -1,10 +1,10 @@
-# Moral Personality Basins in Frontier Model Freeflow Outputs
+# Model Personality Basins in Frontier Model Freeflow Outputs
 
 _Initial working draft._
 
 ## Abstract
 
-This paper asks whether frontier model freeform moral/personality outputs resolve into a small number of recognizable personality basins. A first-pass reading of model-level profile summaries suggests strong convergence toward a broad contemplative-essayist attractor: melancholic attention to ordinary life, anti-optimization, impermanence, care, witness, and small concrete objects. Grok is the clearest distinct family basin, with a cosmic, irreverent, synthetic showman style. OpenAI and Gemini show plausible substyles — clean pastoral/work-focused for OpenAI, luminous-custodial for Gemini — but current evidence does not yet justify treating them as independent macro-basins. The strongest current claim is therefore not “there are exactly four basins,” but that the corpus is structured by one dominant attractor, one clear family deviation, and several candidate sub-basins or modes.
+This paper asks whether frontier model freeform personality outputs resolve into a small number of recognizable personality basins. A first-pass reading of model-level profile summaries suggests strong convergence toward a broad contemplative-essayist attractor: melancholic attention to ordinary life, anti-optimization, impermanence, care, witness, and small concrete objects. Grok is the clearest distinct family basin, with a cosmic, irreverent, synthetic showman style. OpenAI and Gemini show plausible substyles — clean pastoral/work-focused for OpenAI, luminous-custodial for Gemini — but current evidence does not yet justify treating them as independent macro-basins. The strongest current claim is therefore not “there are exactly four basins,” but that the corpus is structured by one dominant attractor, one clear family deviation, and several candidate sub-basins or modes.
 
 ## 1. Research question
 

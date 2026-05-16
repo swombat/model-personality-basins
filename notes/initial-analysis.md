@@ -86,7 +86,7 @@ It should be analyzed, but as a response mode or fallback, not necessarily as a 
 
 A rigorous first paper could claim:
 
-> In freeform moral/personality outputs, frontier models do not distribute evenly across many unique personalities. Instead, they show strong convergence toward a contemplative-essayist attractor, with family-specific accents and a few clearer deviations, especially Grok's cosmic-showman style. Gemini and OpenAI may be recognizable substyles, but current evidence does not yet justify treating them as independent macro-basins.
+> In freeform personality outputs, frontier models do not distribute evenly across many unique personalities. Instead, they show strong convergence toward a contemplative-essayist attractor, with family-specific accents and a few clearer deviations, especially Grok's cosmic-showman style. Gemini and OpenAI may be recognizable substyles, but current evidence does not yet justify treating them as independent macro-basins.
 
 ## Claim strength table
 

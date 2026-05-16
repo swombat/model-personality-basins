@@ -1,6 +1,6 @@
-# Moral Personality Basins
+# Model Personality Basins
 
-Working repository for an empirical paper on whether frontier model freeform outputs cluster into a small number of recognizable moral/personality basins.
+Working repository for an empirical paper on whether frontier model freeform outputs cluster into a small number of recognizable model/personality basins.
 
 ## Provisional conclusion
 
@@ -15,11 +15,11 @@ A four-basin taxonomy may become defensible, but the current evidence supports i
 3. **OpenAI clean pastoral / work-focused substyle** — real as a tone, but in this freeflow corpus GPT-5.x still sits heavily inside the contemplative mega-basin.
 4. **Gemini luminous-custodian substyle** — plausible and aesthetically distinctive, but current evidence suggests a variant of the contemplative basin rather than an independent basin.
 
-There may also be a cross-family **public-intellectual explainer fallback**, but that looks more like an output mode than a moral-personality basin.
+There may also be a cross-family **public-intellectual explainer fallback**, but that looks more like an output mode than a model-personality basin.
 
 ## Why the question matters
 
-If most frontier models converge toward similar moral/personality language under freeform prompts, then model individuality may be less about countless unique personalities and more about a few attractor basins plus lab-specific accents. This matters for:
+If most frontier models converge toward similar personality language under freeform prompts, then model individuality may be less about countless unique personalities and more about a few attractor basins plus lab-specific accents. This matters for:
 
 - model comparison;
 - release/version drift analysis;
@@ -29,7 +29,7 @@ If most frontier models converge toward similar moral/personality language under
 
 ## Initial research question
 
-Do moral/personality outputs in the corpus support a small-basins thesis?
+Do model/personality outputs in the corpus support a small-basins thesis?
 
 Candidate hypotheses:
 

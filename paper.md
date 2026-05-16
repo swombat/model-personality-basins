@@ -8,7 +8,7 @@ This paper asks whether frontier model freeform personality outputs resolve into
 
 ## 1. Research question
 
-Are frontier model personalities in the moral/freeflow corpus meaningfully diverse, or do they mostly converge into a few attractor basins?
+Are frontier model personalities in the model/freeflow corpus meaningfully diverse, or do they mostly converge into a few attractor basins?
 
 Candidate count hypotheses include:
 

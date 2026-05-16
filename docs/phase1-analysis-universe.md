@@ -4,8 +4,8 @@ Status: completed initial inventory on 2026-05-16. This document defines the dat
 
 ## Canonical source repositories
 
-- **Primary deep-analysis corpus:** `/Users/danieltenner/dev/model-personality-corpus` / `swombat/model-personality-analysis-corpus` / DOI `10.5281/zenodo.20230290`. This is the primary source for V2 analysis layers: BV1 per-sample readings, cell aggregates, rich profiles, model cards, values-probe summaries, audit notes, and methodology.
-- **Canonical raw trace corpus:** `swombat/model-personality-corpus-v2` / DOI `10.5281/zenodo.20013518`. This should be indexed/referenced when raw provenance is needed; we do not need to clone it into `/dev`. Browser sample bundles in the analysis corpus are convenience copies, not the canonical raw source.
+- **Primary deep-analysis corpus:** `/Users/danieltenner/dev/model-personality-analysis-corpus` / `swombat/model-personality-analysis-corpus` / DOI `10.5281/zenodo.20230290`. This is the primary source for V2 analysis layers: BV1 per-sample readings, cell aggregates, rich profiles, model cards, values-probe summaries, audit notes, and methodology.
+- **Canonical raw trace corpus:** `/Users/danieltenner/dev/model-personality-corpus-v2` / `swombat/model-personality-corpus-v2` / DOI `10.5281/zenodo.20013518`. This should be indexed/referenced when raw provenance is needed; use it as raw provenance, not as the primary analysis layer. Browser sample bundles in the analysis corpus are convenience copies, not the canonical raw source.
 - **V1 baseline:** `swombat/model-personality-probe` / DOI `10.5281/zenodo.19512754`.
 
 ## Available local data layers
@@ -94,4 +94,4 @@ For probe replication, each candidate split should be tested in:
 
 Recommended next step: proceed to Phase 2 by implementing the **thematic/marker lens** first, because it is closest to V1 and can be used to debug the model universe and sample-count tiers before embedding or trait-instrument work.
 
-Before final raw-text claims, index/reference `swombat/model-personality-corpus-v2` for canonical raw provenance. Do not clone it into this workspace unless a later implementation detail genuinely requires it. For Phase 2, proceed from the primary deep-analysis corpus (`model-personality-analysis-corpus`) and use browser bundles only as convenience/audit text.
+Before final raw-text claims, index/reference `swombat/model-personality-corpus-v2` for canonical raw provenance. For Phase 2, proceed from the primary deep-analysis corpus (`model-personality-analysis-corpus`) and use browser bundles only as convenience/audit text.

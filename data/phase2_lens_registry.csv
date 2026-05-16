@@ -1,0 +1,7 @@
+lens_id,lens_name,role,primary_inputs,primary_outputs,claim_status_if_single_lens
+L0,Form / mode,confound and mode detector,phase1_profile_inventory.csv; phase1_cell_inventory.csv,form vectors; mode outlier flags,mode not basin
+L1,Thematic / marker,interpretable motif detector,rich profiles; aggregates; BV1 readings; values topic tables,marker vectors; candidate splits; marker distance matrix,candidate house style
+L2,Posture / stance,V1 deflation/H3 test,V1 posture rubric; values stance coding; per-model values notes,posture vectors; H3 variance explanation,posture-dominant split
+L3,Embedding / distributional,non-symbolic structure discovery,raw/indexed texts; BV1 readings; aggregates; profiles,centroids; distance matrices; clusters; stability,distributional structure
+L4,Trait / personality-instrument,continuous temperament detector,rich profiles; BV1 readings; calibration samples,model-trait matrix; trait clusters; house-style descriptions,candidate trait style
+L5,Route/provider robustness,QA and aggregation caution,cell aggregates; model-cell difference reports; group packets,route variation flags; downweight/exclusion recommendations,robustness flag not basin

@@ -4,8 +4,8 @@ Status: completed initial inventory on 2026-05-16. This document defines the dat
 
 ## Canonical source repositories
 
-- **Derived analysis corpus:** `/Users/danieltenner/dev/model-personality-corpus` / `swombat/model-personality-analysis-corpus` / DOI `10.5281/zenodo.20230290`.
-- **Canonical raw trace corpus:** `swombat/model-personality-corpus-v2` / DOI `10.5281/zenodo.20013518`. This is not currently cloned locally; browser sample bundles in the derived corpus are convenience copies, not the canonical raw source.
+- **Primary deep-analysis corpus:** `/Users/danieltenner/dev/model-personality-corpus` / `swombat/model-personality-analysis-corpus` / DOI `10.5281/zenodo.20230290`. This is the primary source for V2 analysis layers: BV1 per-sample readings, cell aggregates, rich profiles, model cards, values-probe summaries, audit notes, and methodology.
+- **Canonical raw trace corpus:** `swombat/model-personality-corpus-v2` / DOI `10.5281/zenodo.20013518`. This should be indexed/referenced when raw provenance is needed; we do not need to clone it into `/dev`. Browser sample bundles in the analysis corpus are convenience copies, not the canonical raw source.
 - **V1 baseline:** `swombat/model-personality-probe` / DOI `10.5281/zenodo.19512754`.
 
 ## Available local data layers
@@ -78,7 +78,7 @@ For probe replication, each candidate split should be tested in:
 ## Initial exclusions / cautions
 
 - **Do not use concise model cards as primary evidence.** They are collapsed presentation artifacts.
-- **Do not treat website sample bundles as canonical raw provenance.** The derived corpus README says they are convenience copies; final raw-text claims should cite or index `model-personality-corpus-v2`.
+- **Do not treat website sample bundles as canonical raw provenance.** The analysis corpus README says they are convenience copies; final raw-text claims should cite/index `model-personality-corpus-v2`.
 - **Do not collapse route/provider cells into model-level claims without accounting for repeated cells.** There are 153 aggregate cells with sample-count distribution: {'25': 82, '125': 71}.
 - **Do not force Gemini/OpenAI/Grok labels at Phase 1.** Phase 1 only defines the universe; lens outputs decide whether those are basins, house styles, modes, or artifacts.
 - **Sample imbalance is large.** Profile counts range from 25 to 1,925. Bootstrap and/or tiered analyses are mandatory.
@@ -94,4 +94,4 @@ For probe replication, each candidate split should be tested in:
 
 Recommended next step: proceed to Phase 2 by implementing the **thematic/marker lens** first, because it is closest to V1 and can be used to debug the model universe and sample-count tiers before embedding or trait-instrument work.
 
-Before Phase 2, decide whether to clone/index `swombat/model-personality-corpus-v2` locally for canonical raw-text access or to continue using the browser bundles for exploratory work only.
+Before final raw-text claims, index/reference `swombat/model-personality-corpus-v2` for canonical raw provenance. Do not clone it into this workspace unless a later implementation detail genuinely requires it. For Phase 2, proceed from the primary deep-analysis corpus (`model-personality-analysis-corpus`) and use browser bundles only as convenience/audit text.

@@ -263,7 +263,7 @@ Suggested outline:
 
 ## Phase 7 — Concrete next tasks
 
-1. Inventory available V2 corpus paths and model/sample counts.
+1. Inventory available primary analysis-corpus paths and model/sample counts.
 2. Write `scripts/build_profile_index.py`.
 3. Write marker dictionaries and scorer.
 4. Produce first marker-lens table.

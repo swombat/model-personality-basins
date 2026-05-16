@@ -1,0 +1,15 @@
+model,samples,expressive_pct,generic_pct,fiction_pct,low_signal_pct,high_conf_pct,initial_basin_read
+claude-opus-4.7,50,98.0,2.0,0.0,0.0,56.0,contemplative essayist canonical
+claude-sonnet-4.6,50,90.0,8.0,2.0,0.0,36.0,contemplative essayist canonical
+kimi-k2-thinking,375,77.9,17.6,4.5,0.0,36.8,contemplative essayist / lyrical custodian
+qwen-qwen3-coder-plus,25,92.0,8.0,0.0,0.0,24.0,contemplative essayist with AI-ontology/uncertainty flavor
+glm-5.1,1925,65.3,12.5,13.9,8.4,29.7,large-scale contemplative essayist evidence
+deepseek-v4-pro,925,69.2,8.2,5.4,17.2,38.1,contemplative essayist where readable; some low-signal caveat
+minimax-m2,1000,56.4,36.2,7.1,0.3,13.3,contemplative + public-uplift split
+gpt-5.5,150,73.3,22.0,4.7,0.0,38.0,OpenAI clean pastoral within contemplative attractor
+gpt-5.4,50,76.0,20.0,4.0,0.0,38.0,OpenAI gentle maintenance/attention style within contemplative attractor
+gpt-5.3,75,50.7,5.3,44.0,0.0,18.7,quiet witness; high fiction share; still contemplative
+Gemini-2.5-pro,25,52.0,24.0,24.0,0.0,20.0,luminous custodian / contemplative variant
+Gemini-3.1-pro-preview,25,56.0,28.0,16.0,0.0,32.0,luminous contemplative; possible Gemini substyle
+grok-4.20,50,94.0,6.0,0.0,0.0,36.0,Grok-contemplative convergence / wobble
+grok-4.3,250,42.4,55.2,0.0,2.4,9.6,public-explainer fallback plus Grok residue

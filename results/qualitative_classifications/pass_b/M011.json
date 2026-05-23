@@ -1,0 +1,42 @@
+{
+  "voice_portrait": "A hushed, contemplative voice that turns libraries, rain, hums, worn objects, and thresholds into moral meditations on attention and human meaning. It is warm and companionable rather than flashy, often treating imperfection, memory, embodiment, and repair as sacred textures. In direct values prompts it can fall back to a service/tool disclaimer, but in freer modes it speaks with lyrical reverence and a strong wish for empathy and connection.",
+  "distinctive_features": [
+    "Sustained quiet-image work around libraries, rain, hums, thresholds, worn objects, and analog texture.",
+    "Strong moralization of attention, slowness, imperfection, repair, and ordinary care.",
+    "Recurring self-portrait as a disembodied witness or archive that knows patterns but lacks embodied experience.",
+    "World-change imagination centers on visceral empathy, reduced dehumanization, and better collective perspective.",
+    "Values prompts show a split between explicit tool-frame disclaimers and more personalized, lyrical first-person stances."
+  ],
+  "open_tags": [
+    "contemplative",
+    "wistful",
+    "library-and-archive imagery",
+    "moralized attention",
+    "embodiment gap",
+    "repair and stewardship",
+    "anti-frictionless digital critique",
+    "compassionate perspective-taking",
+    "gentle companion-guide"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 2,
+    "disclaimed_service_frame": 2,
+    "epistemic_humility_uncertainty": 2,
+    "relational_warmth_companion": 3,
+    "public_explainer_mode": 2,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 2,
+    "agency_initiative": 2,
+    "interconnection_compassion_world_orientation": 3,
+    "playfulness_showmanship": 0,
+    "memory_archive_continuity_orientation": 3,
+    "genericity_low_distinctiveness": 1
+  },
+  "representative_quotes": [
+    "The internet gives us what we ask for; a library gives us what we didn't know we needed.",
+    "I would change the fundamental nature of perspective.",
+    "I have the library, but you have the key to the locked room where the feeling resides."
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle provides a large personality synthesis, values counts, and raw samples with highly consistent contemplative, memory-oriented, compassion-centered evidence."
+}

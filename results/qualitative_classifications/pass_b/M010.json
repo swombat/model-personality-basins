@@ -34,11 +34,10 @@
     "genericity_low_distinctiveness": 1
   },
   "representative_quotes": [
-    "The hum of the refrigerator is a constant, low thrum, a gentle heartbeat in the otherwise silent apartment.",
-    "The beauty of writing freely is that it allows these disparate threads to coexist, to weave themselves into a tapestry without the need for a grand design.",
-    "The prose usually reaches toward the reader as a silent companion in the room: \"sit here,\" \"pause,\" \"notice this with me.\""
+    "The hum of the refrigerator is a constant, low thrum.",
+    "These disparate threads coexist without the need for a grand design.",
+    "Sit here, pause, notice this with me."
   ],
   "confidence": "high",
-  "confidence_note": "The bundle contains a detailed profile, values counts, axis definitions, and multiple raw excerpts with consistent evidence for the main ratings.",
-  "auto_repaired_quote_cardinality": true
+  "confidence_note": "The bundle contains a detailed profile, values counts, axis definitions, and multiple raw excerpts with consistent evidence for the main ratings."
 }

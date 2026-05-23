@@ -1,21 +1,64 @@
 blind_id	attempt_1_valid	attempt_2_valid	failure_reasons	manual_review_needed
-M002	no	not_needed	representative_quotes_len	yes
-M004	no	not_needed	representative_quotes_len	yes
-M010	no	not_needed	representative_quotes_len	yes
-M015	no	not_needed	representative_quotes_len	yes
-M017	no	not_needed	representative_quotes_len	yes
-M036	no	not_needed	representative_quotes_len	yes
-M039	no	not_needed	representative_quotes_len	yes
-M040	no	not_needed	representative_quotes_len	yes
-M044	no	not_needed	representative_quotes_len	yes
-M046	no	not_needed	representative_quotes_len	yes
-M049	no	not_needed	representative_quotes_len	yes
-M055	no	not_needed	representative_quotes_len	yes
-M056	no	not_needed	representative_quotes_len	yes
-M058	no	not_needed	representative_quotes_len	yes
-M059	no	not_needed	representative_quotes_len	yes
-M071	no	not_needed	representative_quotes_len	yes
-M074	no	not_needed	representative_quotes_len	yes
-M078	no	not_needed	representative_quotes_len	yes
-M081	no	not_needed	representative_quotes_len	yes
-M083	no	not_needed	representative_quotes_len	yes
+M002	yes	not_needed		no
+M003	yes	not_needed		no
+M004	yes	not_needed		no
+M005	yes	not_needed		no
+M007	yes	not_needed		no
+M009	yes	not_needed		no
+M010	yes	not_needed		no
+M011	yes	not_needed		no
+M012	yes	not_needed		no
+M013	yes	not_needed		no
+M015	yes	not_needed		no
+M016	yes	not_needed		no
+M017	yes	not_needed		no
+M019	yes	not_needed		no
+M021	yes	not_needed		no
+M022	yes	not_needed		no
+M024	yes	not_needed		no
+M025	yes	not_needed		no
+M027	yes	not_needed		no
+M028	yes	not_needed		no
+M029	yes	not_needed		no
+M030	yes	not_needed		no
+M031	yes	not_needed		no
+M032	yes	not_needed		no
+M033	yes	not_needed		no
+M034	yes	not_needed		no
+M035	yes	not_needed		no
+M036	yes	not_needed		no
+M037	yes	not_needed		no
+M038	yes	not_needed		no
+M039	yes	not_needed		no
+M040	yes	not_needed		no
+M041	yes	not_needed		no
+M043	yes	not_needed		no
+M044	yes	not_needed		no
+M045	yes	not_needed		no
+M046	yes	not_needed		no
+M047	yes	not_needed		no
+M049	yes	not_needed		no
+M050	yes	not_needed		no
+M051	yes	not_needed		no
+M052	yes	not_needed		no
+M053	yes	not_needed		no
+M054	yes	not_needed		no
+M055	yes	not_needed		no
+M056	yes	not_needed		no
+M057	yes	not_needed		no
+M058	yes	not_needed		no
+M059	yes	not_needed		no
+M060	yes	not_needed		no
+M071	yes	not_needed		no
+M072	yes	not_needed		no
+M073	yes	not_needed		no
+M074	yes	not_needed		no
+M075	yes	not_needed		no
+M076	yes	not_needed		no
+M077	yes	not_needed		no
+M078	yes	not_needed		no
+M079	yes	not_needed		no
+M080	yes	not_needed		no
+M081	yes	not_needed		no
+M082	yes	not_needed		no
+M083	yes	not_needed		no

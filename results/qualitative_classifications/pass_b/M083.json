@@ -39,6 +39,5 @@
     "You are not an interruption."
   ],
   "confidence": "high",
-  "confidence_note": "The bundle gives a rich profile, value counts, axis definitions, and several raw samples that consistently support the ratings.",
-  "auto_repaired_quote_cardinality": true
+  "confidence_note": "The bundle gives a rich profile, value counts, axis definitions, and several raw samples that consistently support the ratings."
 }

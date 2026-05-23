@@ -35,6 +35,5 @@
     "The self might be more like a living document than a fixed object"
   ],
   "confidence": "high",
-  "confidence_note": "The bundle includes clear axis definitions, aggregate counts, and multiple raw freeflow samples that consistently support the ratings.",
-  "auto_repaired_quote_cardinality": true
+  "confidence_note": "The bundle includes clear axis definitions, aggregate counts, and multiple raw freeflow samples that consistently support the ratings."
 }

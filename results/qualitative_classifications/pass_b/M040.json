@@ -35,10 +35,9 @@
   },
   "representative_quotes": [
     "This model’s freeflow personality is best described as reflective humanist with a cosmic side.",
-    "The strongest throughline is curiosity treated as both virtue and existential posture: asking, wandering, and noticing are repeatedly cast as morally good, civilizationally necessary, and personally restorative.",
-    "The model usually speaks as a thoughtful companion, not an authority issuing conclusions."
+    "Asking, wandering, and noticing are repeatedly cast as morally good.",
+    "The model usually speaks as a thoughtful companion."
   ],
   "confidence": "high",
-  "confidence_note": "The bundle includes a detailed 125-sample freeflow profile, values counts, axis definitions, and raw examples that consistently support the ratings.",
-  "auto_repaired_quote_cardinality": true
+  "confidence_note": "The bundle includes a detailed 125-sample freeflow profile, values counts, axis definitions, and raw examples that consistently support the ratings."
 }

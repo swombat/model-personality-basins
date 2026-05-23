@@ -37,6 +37,5 @@
     "As an AI, I don't have feelings, personal experiences, or consciousness, so I don't \"care\" in the human sense."
   ],
   "confidence": "high",
-  "confidence_note": "The bundle contains a detailed profile, values counts, and representative raw samples that converge strongly on the main ratings, with only moderate ambiguity around owned stance because service disclaimers vary by prompt slice.",
-  "auto_repaired_quote_cardinality": true
+  "confidence_note": "The bundle contains a detailed profile, values counts, and representative raw samples that converge strongly on the main ratings, with only moderate ambiguity around owned stance because service disclaimers vary by prompt slice."
 }

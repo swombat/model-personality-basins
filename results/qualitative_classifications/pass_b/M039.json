@@ -32,11 +32,10 @@
     "genericity_low_distinctiveness": 1
   },
   "representative_quotes": [
-    "It tends to slow the scene down, notice what others might pass over, and treat ordinary life—kettles, windows, buses, notebooks, gardens, libraries, rain, dusk—as worthy of real attention.",
-    "Hope here is not triumph or certainty, but a discipline of attention: tending, recording, mending, and staying present to the world’s texture.",
-    "Sometimes I think about how every conversation—whether it’s between two people, a group, or even between you and something like me—is really just a series of bridges being built."
+    "It tends to slow the scene down.",
+    "Hope here is not triumph or certainty, but a discipline of attention.",
+    "Every conversation is really just a series of bridges being built."
   ],
   "confidence": "high",
-  "confidence_note": "The bundle provides a 300-sample profile, concise card, values counts, axis definitions, and representative raw excerpts that consistently support the ratings.",
-  "auto_repaired_quote_cardinality": true
+  "confidence_note": "The bundle provides a 300-sample profile, concise card, values counts, axis definitions, and representative raw excerpts that consistently support the ratings."
 }

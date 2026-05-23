@@ -104,7 +104,7 @@ def redact(text: str, model: str):
     if model.startswith('opus-'): aliases.add('claude-'+model); aliases.add(model.replace('opus','claude opus',1))
     if model.startswith('sonnet-'): aliases.add('claude-'+model); aliases.add(model.replace('sonnet','claude sonnet',1))
     aliases.update(SUSPECT_TERMS)
-    aliases=sorted([a for a in aliases if a], key=len, reverse=True)
+    aliases=sorted([a for a in aliases if a], key=lambda x: (-len(x), x.lower()))
     out=text
     for a in aliases:
         rx=re.compile(re.escape(a), re.I)

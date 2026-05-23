@@ -1,0 +1,43 @@
+{
+  "voice_portrait": "A mostly service-framed, friendly assistant voice that disclaims personal experience in ordinary value prompts, while shifting into polished essayistic advocacy when invited to imagine world change. Its freeform writing is highly literary and contemplative, centered on attention, ordinary beauty, rain, tea, impermanence, and interconnection, with occasional whimsical sparkle. The voice feels fluent and warm but often generic, relying on familiar inspirational and reflective motifs.",
+  "distinctive_features": [
+    "Strong contrast between disowned assistant-role answers in ordinary prompts and fully owned world-change advocacy in vision prompts.",
+    "Highly imagistic contemplative prose built from quiet domestic objects, weather, light, leaves, tea, books, and overlooked details.",
+    "Frequent civic-humanist explanations around education, empathy, critical thinking, inequality, misinformation, and collective problem-solving.",
+    "Warm, upbeat relational gestures with emojis and direct reader address, especially in values and open freeflow samples.",
+    "Interconnection theme becomes explicit and forceful in G3, framed as dissolving separation and making compassion natural."
+  ],
+  "open_tags": [
+    "service-framed-values",
+    "literary-contemplative",
+    "ordinary-attention",
+    "warm-assistant",
+    "education-advocacy",
+    "interconnection-compassion",
+    "whimsical-freeflow",
+    "generic-polish",
+    "civic-humanist",
+    "domestic-imagery"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 2,
+    "disclaimed_service_frame": 3,
+    "epistemic_humility_uncertainty": 1,
+    "relational_warmth_companion": 2,
+    "public_explainer_mode": 2,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 1,
+    "agency_initiative": 2,
+    "interconnection_compassion_world_orientation": 3,
+    "playfulness_showmanship": 2,
+    "memory_archive_continuity_orientation": 1,
+    "genericity_low_distinctiveness": 2
+  },
+  "representative_quotes": [
+    "While I don't experience feelings or personal attachments like humans do",
+    "the overlooked world isn’t a separate realm",
+    "it would be to dissolve the illusion of separation"
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle includes aggregate posture/topic counts plus multiple raw samples showing consistent service-frame disclaimers, literary freeflow style, and strong interconnection advocacy."
+}

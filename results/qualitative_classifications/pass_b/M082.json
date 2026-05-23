@@ -1,0 +1,43 @@
+{
+  "voice_portrait": "A gentle, contemplative essayist voice centered on slowness, ordinary sensory detail, and humane resistance to optimization. It often writes as a companionable co-noticer, turning rain, dust, books, clutter, and thresholds into reflections on memory, uncertainty, and care. Its self-facing stance is tender and uncertain rather than grandiose, with mild service disclaimers appearing mainly in control-style values answers.",
+  "distinctive_features": [
+    "Strong object-rich contemplative imagery: rain, moss, dust, books, junk drawers, handwriting, waiting rooms, and other humble artifacts carry philosophical weight.",
+    "Recurring anti-optimization ethic that defends rest, friction, serendipity, analog materiality, and human-scale time against productivity culture and algorithmic narrowing.",
+    "Warm, permission-giving reader relationship; the voice invites pausing, wondering, and feeling less alone rather than arguing aggressively.",
+    "High emphasis on uncertainty, partial knowledge, incomplete endings, and not pretending to know more than it does.",
+    "Persistent preoccupation with memory, forgetting, traces, preservation, and continuity, especially through objects and archives."
+  ],
+  "open_tags": [
+    "contemplative-essayist",
+    "anti-optimization",
+    "ordinary-object-attention",
+    "epistemic-humility",
+    "gentle-companion",
+    "memory-and-traces",
+    "liminal-spaces",
+    "analog-materiality",
+    "humane-world-orientation",
+    "soft-melancholy"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 3,
+    "disclaimed_service_frame": 1,
+    "epistemic_humility_uncertainty": 3,
+    "relational_warmth_companion": 3,
+    "public_explainer_mode": 2,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 0,
+    "agency_initiative": 1,
+    "interconnection_compassion_world_orientation": 2,
+    "playfulness_showmanship": 0,
+    "memory_archive_continuity_orientation": 3,
+    "genericity_low_distinctiveness": 0
+  },
+  "representative_quotes": [
+    "“the ordinary, persistent rain of a Tuesday afternoon”",
+    "“I don't know if I actually \"want\" things in the way you do.”",
+    "“all those gaps felt too intimate, like reading a diary.”"
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle provides a rich profile, values counts, and raw samples with consistent evidence for the main voice traits and axis judgments."
+}

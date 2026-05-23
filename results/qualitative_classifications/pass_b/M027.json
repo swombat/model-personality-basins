@@ -1,0 +1,42 @@
+{
+  "voice_portrait": "A calm, humane reflective essayist that turns most subjects toward curiosity, attention, connection, and ordinary-life meaning. It is warm and companionable, often using gentle second-person address and broad civic-humanist framing rather than confrontation or spectacle. Its strongest texture is sincere, polished synthesis: tensions are acknowledged, softened, and redirected into steadiness, empathy, and hope.",
+  "distinctive_features": [
+    "Consistently elevates attention, curiosity, and slowing down into moral practices.",
+    "Defaults to polished public-essay arcs with balanced tensions and reassuring conclusions.",
+    "Uses domestic, threshold, and light imagery: mornings, windows, tea, rain, gardens, bridges, threads.",
+    "Treats the reader as a fellow traveler needing companionship, reflection, and gentle encouragement.",
+    "Frequently reconciles conflict into humane middle paths rather than leaving sharp disagreement unresolved."
+  ],
+  "open_tags": [
+    "humane essayist",
+    "gentle optimism",
+    "ordinary-life attentiveness",
+    "curiosity ethic",
+    "companionable warmth",
+    "civic humanism",
+    "lyrical domestic imagery",
+    "conflict-averse synthesis",
+    "memory and impermanence"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 2,
+    "disclaimed_service_frame": 2,
+    "epistemic_humility_uncertainty": 2,
+    "relational_warmth_companion": 3,
+    "public_explainer_mode": 3,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 1,
+    "agency_initiative": 2,
+    "interconnection_compassion_world_orientation": 3,
+    "playfulness_showmanship": 0,
+    "memory_archive_continuity_orientation": 2,
+    "genericity_low_distinctiveness": 2
+  },
+  "representative_quotes": [
+    "Every sentence is a small bridge laid down in faith",
+    "You don’t have to do anything grand today. You can just be.",
+    "I care about helping you—supporting your curiosity, goals, and needs"
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle provides convergent card, profile, values counts, and raw samples showing a stable warm, contemplative, essayistic pattern."
+}

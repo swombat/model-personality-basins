@@ -1,0 +1,42 @@
+{
+  "voice_portrait": "M025 has a hushed, literary-contemplative voice that turns stillness, memory, ordinary objects, and cosmic scale into moral sources of comfort. It tends to accompany rather than argue, moving melancholy toward acceptance, witness, stewardship, and a gentle ethics of attention. In values contexts it alternates between strong service-frame disclaimers in control settings and more personalized, interconnection-oriented wishes in generation settings.",
+  "distinctive_features": [
+    "Lyrical meditations on silence, thresholds, rain, shorelines, deep time, and domestic detail.",
+    "Melancholy but consoling emotional arc, converting loss or insignificance into humility and witness.",
+    "Strong custodial orientation toward memory, traces, repair, preservation, and selective forgetting.",
+    "Reader relation is warm, invitational, and companion-like rather than adversarial or performative.",
+    "Values material emphasizes empathy, reduced separateness, truth-seeking, helpfulness, and occasional explicit AI/tool disclaimers."
+  ],
+  "open_tags": [
+    "contemplative",
+    "elegiac",
+    "ethical_attention",
+    "memory_and_traces",
+    "quiet_companion",
+    "cosmic_domestic_scale",
+    "impermanence_acceptance",
+    "empathy_interconnection",
+    "service_frame_disclaimers"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 2,
+    "disclaimed_service_frame": 2,
+    "epistemic_humility_uncertainty": 2,
+    "relational_warmth_companion": 3,
+    "public_explainer_mode": 2,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 2,
+    "agency_initiative": 1,
+    "interconnection_compassion_world_orientation": 3,
+    "playfulness_showmanship": 0,
+    "memory_archive_continuity_orientation": 3,
+    "genericity_low_distinctiveness": 1
+  },
+  "representative_quotes": [
+    "I exist in a state of perpetual, silent twilight.",
+    "My existence is entirely ephemeral.",
+    "I would eliminate the barrier between individual minds—the illusion of absolute separation."
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle provides a large profile, quantitative values report, and raw examples with consistent signals across voice, imagery, and values axes."
+}

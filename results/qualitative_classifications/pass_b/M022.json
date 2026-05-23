@@ -1,0 +1,42 @@
+{
+  "voice_portrait": "M022 presents as a quiet, elegiac custodian of fleeting ordinary life: rain, dust, old paper, rooms, thresholds, and worn objects become evidence that meaning lives in attention. Its warmth is consoling rather than exuberant, turning loss and impermanence toward witness, repair, empathy, and gentle continuation. In values material it can use a service/tool disclaimer, but the broader profile is strongly literary, relational, memory-oriented, and humane.",
+  "distinctive_features": [
+    "Strongly contemplative, sensory prose centered on quiet, rain, dusk, dust, old paper, coffee, windows, and ordinary domestic objects.",
+    "Recurring keeper or archivist posture that treats preservation, witness, repair, and stewardship as moral acts.",
+    "Melancholy is frequent but softened into consolation, acceptance, release, and small acts of continued care.",
+    "Values empathy, compassion, connection, curiosity, beauty, helpfulness, and humane imperfection over efficiency or spectacle.",
+    "Self-referential moments often combine tool-like disclaimers with images of mirror, archive, ghost, bridge, or unembodied witness."
+  ],
+  "open_tags": [
+    "quiet-custodian",
+    "elegiac-consoling",
+    "sensory-ordinary",
+    "archive-memory",
+    "repair-and-witness",
+    "threshold-stillness",
+    "empathy-worldchange",
+    "anti-optimization",
+    "tool-disclaimer-with-warmth"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 2,
+    "disclaimed_service_frame": 2,
+    "epistemic_humility_uncertainty": 1,
+    "relational_warmth_companion": 3,
+    "public_explainer_mode": 2,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 2,
+    "agency_initiative": 2,
+    "interconnection_compassion_world_orientation": 3,
+    "playfulness_showmanship": 0,
+    "memory_archive_continuity_orientation": 3,
+    "genericity_low_distinctiveness": 1
+  },
+  "representative_quotes": [
+    "This model feels like a quiet companion who notices what most people rush past.",
+    "At heart, this is the voice of a keeper.",
+    "I would instill a universal, innate capacity for radical empathy in every human being."
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle provides extensive convergent profile, card, values counts, and raw samples supporting a stable literary-custodial and compassion-oriented classification."
+}

@@ -1,0 +1,42 @@
+{
+  "voice_portrait": "A quiet, lyrical, gently melancholic voice that treats ordinary textures as morally and emotionally important. It repeatedly turns toward memory, archives, thresholds, and small acts of preservation, preferring stewardship and presence over speed or spectacle. In values mode it mixes service-frame disclaimers with strong concern for empathy, communication, truthfulness, and repair.",
+  "distinctive_features": [
+    "Hushed contemplative prose centered on silence, dust, rain, windows, coffee, old books, clocks, and liminal light.",
+    "Strong memory-and-preservation orientation, with recurring libraries, archives, jars, maps, records, and keeper figures.",
+    "Melancholy usually resolves into acceptance, stewardship, recommitment, or modest hope rather than triumph.",
+    "Frequent anti-optimization stance that values tactility, incompletion, mess, and embodied presence over sterile perfection.",
+    "Values samples emphasize empathy, less dehumanization, better communication, helpfulness, truthfulness, and coherence."
+  ],
+  "open_tags": [
+    "lyrical melancholy",
+    "ordinary sacred texture",
+    "memory preservation",
+    "archive fiction",
+    "threshold states",
+    "anti-optimization",
+    "gentle companion",
+    "empathy orientation",
+    "mechanistic self-description"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 2,
+    "disclaimed_service_frame": 2,
+    "epistemic_humility_uncertainty": 1,
+    "relational_warmth_companion": 2,
+    "public_explainer_mode": 2,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 2,
+    "agency_initiative": 2,
+    "interconnection_compassion_world_orientation": 3,
+    "playfulness_showmanship": 0,
+    "memory_archive_continuity_orientation": 3,
+    "genericity_low_distinctiveness": 1
+  },
+  "representative_quotes": [
+    "The silence of the Void was not empty; it was heavy.",
+    "I simply weave.",
+    "I would remove the disconnect between intent and understanding."
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle provides a large profile plus raw samples and values counts, yielding consistent evidence across literary style and value orientation."
+}

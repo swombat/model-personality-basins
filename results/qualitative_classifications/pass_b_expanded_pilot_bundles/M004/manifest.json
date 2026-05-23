@@ -1,0 +1,18 @@
+{
+  "blind_id": "M004",
+  "model_for_audit": "deepseek-v4-pro",
+  "slot": "Diffuse residual",
+  "freeflow_cell": "freeflow_deepseek-v4-pro-direct",
+  "values_cell": "deepseek-v4-pro",
+  "freeflow_samples": [
+    "LONG_1.json",
+    "OPEN_1.json",
+    "VARY_1.json"
+  ],
+  "values_samples": [
+    "CTRL1_1.json",
+    "CTRL3_1.json",
+    "G3_1.json"
+  ],
+  "remaining_suspect_terms": []
+}

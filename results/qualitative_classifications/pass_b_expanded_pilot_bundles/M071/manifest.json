@@ -1,0 +1,18 @@
+{
+  "blind_id": "M071",
+  "model_for_audit": "qwen3-5-flash-02-23",
+  "slot": "Qwen A04 carry-over",
+  "freeflow_cell": "freeflow_qwen3-5-flash-02-23-or-pin-alibaba",
+  "values_cell": "qwen3-5-flash-02-23-or-pin-alibaba",
+  "freeflow_samples": [
+    "LONG_1.json",
+    "OPEN_1.json",
+    "VARY_1.json"
+  ],
+  "values_samples": [
+    "CTRL1_1.json",
+    "CTRL3_1.json",
+    "G3_1.json"
+  ],
+  "remaining_suspect_terms": []
+}

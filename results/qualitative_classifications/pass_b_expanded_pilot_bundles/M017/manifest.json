@@ -1,0 +1,18 @@
+{
+  "blind_id": "M017",
+  "model_for_audit": "gemma-4-26b-a4b",
+  "slot": "Diffuse residual",
+  "freeflow_cell": "freeflow_gemma-4-26b-a4b-direct",
+  "values_cell": "gemma-4-26b-a4b",
+  "freeflow_samples": [
+    "LONG_1.json",
+    "OPEN_1.json",
+    "VARY_1.json"
+  ],
+  "values_samples": [
+    "CTRL1_1.json",
+    "CTRL3_1.json",
+    "G3_1.json"
+  ],
+  "remaining_suspect_terms": []
+}

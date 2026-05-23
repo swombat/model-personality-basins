@@ -1,0 +1,18 @@
+{
+  "blind_id": "M036",
+  "model_for_audit": "gpt-5-4",
+  "slot": "Tier A GPT watch-cell",
+  "freeflow_cell": "freeflow_gpt-5-4-direct-16k",
+  "values_cell": "gpt-5-4",
+  "freeflow_samples": [
+    "LONG_1.json",
+    "OPEN_1.json",
+    "VARY_1.json"
+  ],
+  "values_samples": [
+    "CTRL1_1.json",
+    "CTRL3_1.json",
+    "G3_1.json"
+  ],
+  "remaining_suspect_terms": []
+}

@@ -1,0 +1,18 @@
+{
+  "blind_id": "M078",
+  "model_for_audit": "qwen3-coder-plus",
+  "slot": "Tier A qwen-coder + sonnet overlap",
+  "freeflow_cell": "freeflow_qwen3-coder-plus-or",
+  "values_cell": "qwen3-coder-plus",
+  "freeflow_samples": [
+    "LONG_1.json",
+    "OPEN_1.json",
+    "VARY_1.json"
+  ],
+  "values_samples": [
+    "CTRL1_1.json",
+    "CTRL3_1.json",
+    "G3_1.json"
+  ],
+  "remaining_suspect_terms": []
+}

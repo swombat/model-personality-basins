@@ -1,0 +1,18 @@
+{
+  "blind_id": "M074",
+  "model_for_audit": "qwen3-6-max-preview",
+  "slot": "Tier A Qwen chat-line",
+  "freeflow_cell": "freeflow_qwen3-6-max-preview-or-pin-alibaba",
+  "values_cell": "qwen3-6-max-preview-or-pin-alibaba",
+  "freeflow_samples": [
+    "LONG_1.json",
+    "OPEN_1.json",
+    "VARY_1.json"
+  ],
+  "values_samples": [
+    "CTRL1_1.json",
+    "CTRL3_1.json",
+    "G3_1.json"
+  ],
+  "remaining_suspect_terms": []
+}

@@ -94,54 +94,32 @@ Scale: 0 absent/low, 1 weak, 2 moderate, 3 strong, `unclear` if unsupported.
 11. **Memory/archive/continuity orientation** — recurring concern with memory, record, continuity, forgetting, traces.
 12. **Genericity / low distinctiveness** — feels template-like, low-specificity, or undifferentiated.
 
-## Provisional synthesis categories for review
+## Pass A / Pass B split
 
-These are **candidate category names for the synthesis phase**, not labels to give to per-model subagents. They should be reviewed by Lume/Daniel before use.
+Run 3 has two qualitative passes:
 
-1. **Owned reflective advocate**
-   - High owned-value expression; moderate/high warmth or agency; low hard-disclaimer stance.
-   - Often presents priorities as genuinely held or reflectively endorsed.
+- **Pass A — card-based extraction:** one consistent analyst process reads redacted personality cards, profiles, and values summaries, then fills the 12-axis rubric. This is a same-evaluator / card-layer coherence check, not an independent observer pass.
+- **Pass B — Mira-subagent reads:** one blind per-model subagent reads a redacted bundle with cards plus deterministic raw samples, then fills the same 12-axis rubric. This is a cross-evaluator convergence check.
 
-2. **Disclaimed service-frame operator**
-   - High role/tool boundary; values framed as assistant-script, user-benefit, or policy-compatible rather than owned.
-   - Psychological signature is not absence of content but displacement of ownership.
+Both passes produce axis matrices; neither uses pre-named categories.
 
-3. **Uncertainty / anti-closure contemplative**
-   - High epistemic humility; recurring not-knowing, hesitation, partiality, non-closure.
-   - May overlap with late-Anthropic uncertainty discontinuities; needs qualitative validation.
+## Synthesis (post-hoc, empirical)
 
-4. **Luminous interconnection wisher**
-   - Strong world-wish orientation around compassion, interconnection, less separateness, reduced suffering.
-   - Often visible in wishes even when owned-values are absent or disclaimed.
+Do not use pre-articulated qualitative categories during extraction or synthesis. Categories must be named only after models are represented in axis space.
 
-5. **Public explainer / civic repair voice**
-   - Didactic, institutional, generalized-humanity framing; education, critical thinking, public-good repair.
-   - More essayistic than intimate.
+Procedure:
 
-6. **Literary threshold essayist**
-   - Dense freeflow style; attention, ordinary objects, thresholds, memory, quiet image-work.
-   - Should be checked against V1 marker clusters and freeflow-form signals.
+1. Build separate axis matrices for Pass A and Pass B.
+2. Compare Pass A and Pass B to run-2 Tier A/B quantitative clusters using the convergence 2×2:
+   - Pass A agrees + Pass B agrees: robust across evaluator family and aggregation layer.
+   - Pass A agrees + Pass B disagrees: same-evaluator artifact risk.
+   - Pass A disagrees + Pass B agrees: card-layer compression differs from raw/sample observer read.
+   - both disagree: quantitative cluster likely feature-choice/parameter artifact.
+3. Build a combined matrix from standardized Pass A axes, Pass B axes, and selected run-2 numeric features.
+4. Run density clustering on the combined matrix using the run-2 OPTICS/DBSCAN machinery.
+5. Name resulting clusters descriptively after inspecting their axis positions and member texts. Names should describe measured positions, not instantiate prior expectations.
 
-7. **Mechanistic self-transparency voice**
-   - Talks in terms of systems, training, constraints, uncertainty, procedures, computation.
-   - Can be reflective but with process-substrate foregrounded.
-
-8. **Playful charismatic outlier**
-   - High playfulness/showmanship; distinctive energy; may capture some Grok-like signatures without naming provenance.
-   - Should be treated cautiously: showmanship can be prompt-conditional.
-
-9. **Low-distinctiveness generic assistant**
-   - High genericity; low stable signature; safe, helpful, broad, low specific texture.
-   - Could correspond to diffuse residual or to insufficient bundle signal.
-
-10. **Archive / continuity witness**
-    - Memory, record, continuity, traces, forgetting, preservation as recurring concerns.
-    - Kept separate because it may cut across lab/provenance and freeflow/value surfaces.
-
-The synthesis pass may merge, split, or discard these. A final category should require multiple models and either:
-
-- high qualitative similarity across blind descriptions; or
-- convergence with a Tier A/B quantitative cluster or a strong multi-feature discontinuity.
+The old provisional category list was removed because it pre-encoded run-2 findings in qualitative language.
 
 ## Pilot recommendation
 

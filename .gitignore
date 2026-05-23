@@ -1,3 +1,33 @@
-.DS_Store
+
+# Environment / secrets
+# LaTeX build artifacts
+# Large or sensitive data — describe in data/README.md, do not commit raw.
+# OS
+# Python
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.key
+*.lof
+*.log
+*.lot
+*.nav
+*.out
+*.py[cod]
+*.snm
+*.synctex.gz
 *.tmp
+*.toc
+*.vrb
+.DS_Store
 .cache/
+.env
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+data/cache/
+data/raw/
+paper/main.pdf
+venv/

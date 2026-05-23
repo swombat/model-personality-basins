@@ -18,6 +18,10 @@ Posture (V1) is one known axis, included as a baseline, not assumed to be the on
 
 See `README.md` § "Established priors." In brief: convergent form is real; divergent voice is real; posture is one probe-stable axis with a three-way lab split; theme content is probe-conditional. V2's contribution begins *after* these.
 
+### 2.1 Data
+
+The corpus is `swombat/model-personality-corpus-v2` (*Convergent Form, Divergent Voice II — Corpus*; concept DOI 10.5281/zenodo.20013518): 49 models, with `data/traces_freeflow` and `data/traces_values` as separate trace sets. The two sets are what make §4's probe-replication test executable. Not in this repo; see `README.md` § "Data".
+
 ## 3. Method
 
 ### 3.1 Lenses (open set)
@@ -48,7 +52,7 @@ Instrument validation, not primary finding. V1's lone "declare" posture should s
 
 1. Lock the lens set; specify each lens's feature extraction and separability metric.
 2. Reuse the V1 posture-coding rubric verbatim (pull from `swombat/model-personality-probe`) so the posture lens is comparable across papers.
-3. Run all lenses on the V2 corpus; produce per-lens carves with separability numbers.
+3. Run all lenses on the V2 corpus (`swombat/model-personality-corpus-v2`, `data/traces_freeflow`); produce per-lens carves with separability numbers.
 4. Build the concordance cross-tab; identify agreement-robust splits and disagreement structure.
 5. Probe-replicate every surviving split.
 6. Report the concordance map as the result; basin *count* is an output, never a premise.

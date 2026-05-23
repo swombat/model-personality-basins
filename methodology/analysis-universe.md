@@ -1,5 +1,17 @@
 # Phase 1 — Analysis Universe Inventory
 
+> **Update banner (2026-05-22).** This inventory was taken on 2026-05-16, before
+> the analysis-corpus tidy-up. The counts below are **stale**: the corpus is now
+> **63 model profiles / 18,850 BV1 readings** (was 46 / 10,925), with a canonical
+> model mapping and a **quarantined freeflow posture-coding layer**. Regenerate
+> the inventory CSVs against the current release before they feed analysis. The
+> framing here is correct and load-bearing — this doc already states (rightly)
+> that the **analysis-corpus is the primary analysis layer and corpus-v2 is raw
+> provenance**; the earlier README/paper claim that "lenses run on corpus-v2" was
+> the imprecise one and has been corrected. Read alongside
+> `CANONICAL_MODELS_AND_LINEAGE.md`: the unit of analysis is the canonical model,
+> and lineage is the resampling unit.
+
 Status: completed initial inventory on 2026-05-16. This document defines the data universe and proposed analysis subsets before any lens scoring.
 
 ## Canonical source repositories

@@ -1,74 +1,129 @@
-# Model Personality Basins (V2)
+# The Shape of Divergence (model personality basins, V2)
 
-Working repository for the second paper in the model-personality line. It builds directly on V1 — *Convergent Form, Divergent Voice: A Cross-Lab Probe of Model Personality in 26 Frontier Language Models* (Tenner, D. & Tenner, L., 2026; DOI [10.5281/zenodo.19512754](https://doi.org/10.5281/zenodo.19512754); repo `swombat/model-personality-probe`).
+> V1 showed that frontier models converge on a shared *contemplative essayist*
+> attractor while each keeps a stable model-specific posture. This paper asks the
+> next question: **which models look similar or different under simple, auditable
+> measures that do not know where the models came from?** The result is a blind,
+> interpretable grouping map followed by an unblinded audit — not a pre-assumed
+> basin count and not a confirmation of named house-style bins.
 
-## Established priors — settled in V1, not re-litigated here
+## Status
 
-These are the floor V2 stands on. They are not the question for this paper; treating them as open would mean re-running V1 rather than building on its published, versioned results.
+`skeleton` → **`planning`** → drafting → analysis-complete → internal-review → submitted → published
 
-1. **Convergent form.** ~18 of 26 frontier models occupy a shared stylistic attractor — the *contemplative essayist*: templatic openings, "On the Quiet X of Y" titles, a narrow thematic palette (attention, small objects, afternoon light, thresholds), emerging via a roughly synchronized 2025 cross-lab transition.
-2. **Divergent voice.** Within the attractor, each model retains a **stable, model-specific stylistic posture** that re-projects recognizably across probe types. Differentiation *exists*; the question was never whether models differ, only how.
-3. **One known axis of differentiation: posture.** Labs split three ways on introspective probes — **hedge** (Anthropic, OpenAI), **mechanize** (Google, DeepSeek, Moonshot AI), **declare** (xAI).
-4. **Theme content is probe-conditional; posture is not.** Mean freeflow↔values cosine similarity 0.08–0.17. What transfers across probes is the *stance*, not the *content*.
+Current: **planning.** No results yet. The live document is the research plan
+(`methodology/RESEARCH_PLAN.md`); the LaTeX `paper/` is a skeleton kept for
+consistency with the other papers in `~/dev/research`. After Daniel's critique, Mira revised the plan around blind, simple,
+interpretable grouping: compute feature tables without lab/family identity, group
+models first, then unblind for audit. Analysis scripts/results do not exist yet.
 
-V1's method was deliberately marker- and taxonomy-centric. That is one lens, not the only one.
+This repository predates three things and has just been tidied to account for
+them: the shared paper **template** (`~/dev/research/_template`), the **Values
+Under Fire** paper (whose research-plan / frozen-criteria format this now
+mirrors), and the **tidy-up of the analysis corpus** (now 63 model profiles /
+18,850 BV1 readings, with a canonical model mapping and a quarantined posture
+layer). See `notes/2026-05-22-tidy-handover.md` for what changed and why.
+
+## Where to start (for Mira)
+
+1. `methodology/CANONICAL_MODELS_AND_LINEAGE.md` — **frozen guardrail. Read
+   first.** The rules that stop lineage non-independence faking a "lab = basin"
+   result.
+2. `methodology/RESEARCH_PLAN.md` — the revised operational run-1 research
+   plan: blind interpretable grouping first, provenance interpretation second.
+3. `methodology/lens-spec.md` and `methodology/analysis-universe.md` — the lens
+   set and the data inventory.
+4. `methodology/FROZEN_CRITERIA.md` — the run-1 freeze artifact: thresholds,
+   metrics, and feature extraction rules are set before scoring.
+
+## Repository layout
+
+```
+paper/          LaTeX paper (skeleton; written after the analysis exists).
+methodology/    The real working content at this stage:
+  RESEARCH_PLAN.md                  blind interpretable grouping plan
+  CANONICAL_MODELS_AND_LINEAGE.md   FROZEN non-independence guardrail
+  lens-spec.md                      the six lenses
+  analysis-universe.md              data inventory + analysis subsets
+  IMPLEMENTATION_PLAN.md            older phased task breakdown (framing superseded)
+  FROZEN_CRITERIA.md                blind grouping thresholds/features frozen
+analysis/scripts/   analysis code (none yet — see RESEARCH_PLAN §7-8)
+results/            analysis outputs (none yet)
+data/               Phase 1 inventory CSVs + a derived early-slice summary.
+                    NOT the corpus — see data/README.md.
+notes/              lab notebook (dated) + superseded artifacts.
+```
+
+## Established priors — settled in V1, not re-litigated
+
+From *Convergent Form, Divergent Voice* (Tenner & Tenner, 2026; DOI
+[10.5281/zenodo.19512754](https://doi.org/10.5281/zenodo.19512754); repo
+`swombat/model-personality-probe`):
+
+1. **Convergent form** — ~18 of 26 models occupy the contemplative-essayist
+   attractor via a synchronized 2025 cross-lab transition.
+2. **Divergent voice** — within it, each model keeps a stable model-specific
+   posture that re-projects across probes.
+3. **One known axis: posture** — labs split hedge (Anthropic, OpenAI) / mechanize
+   (Google, DeepSeek, Moonshot) / declare (xAI).
+4. **Theme content is probe-conditional; posture is not** — freeflow↔values
+   cosine 0.08–0.17.
 
 ## What V2 asks
 
-Given that the attractor is real (prior 1) and that differentiation within it is real (prior 2), and that V1 found exactly **one** axis of it (posture, prior 3):
+Given that the attractor is real and differentiation within it is real:
 
-> **What is the full structure of differentiation inside the contemplative attractor — and is that structure the same regardless of the instrument used to measure it?**
+> Which models look similar or different under simple, auditable measures that do
+> not know where the models came from?
 
-The axis is *not* pre-committed. Posture is a known carve, not the assumed one. The V2 corpus is substantially stronger than V1's, strong enough to discover axes rather than confirm one.
+The plan now avoids provenance-shaped marker bins. It computes interpretable
+features first — e.g. owned-disclosure percentages, owned vs non-owned value
+surfaces, world-change wishes, top-value overlap, V1 freeflow marker counts,
+form/mode rates, and safe posture/stance measures — groups models while blinded
+to lab/family, and only then unblinds for interpretation and deflation tests. This
+is label-blindness, not proof of provenance-independence: feature rows may still
+encode lab/lineage-correlated behavior, and that is audited after unblinding.
 
-## Competing hypotheses (pre-registered)
+## Competing explanations to audit after blind grouping
 
-These are the claims V2 adjudicates between, stated before the analysis. They compete on the *structure* of differentiation, not on a basin count — count is whatever falls out of the winning hypothesis, never an input.
+- **No stable structure.** The apparent groups are unstable or threshold-dependent.
+- **Interpretable gradients.** Models differ along simple dimensions such as
+  owned-disclosure rate, top-value overlap, form/mode rate, or stance.
+- **Cross-probe similarity.** A grouping recurs across values and freeflow-derived
+  feature blocks.
+- **Probe-specific mode.** A grouping appears only in values or only in freeflow.
+- **Posture rediscovery.** The grouping mostly reflects V1 posture / owned stance.
+- **Lineage artifact.** The grouping mostly reflects one lab/family release line
+  or uneven checkpoint sampling.
 
-- **H0 — null.** No stable sub-structure. No lens separates the attractor above chance; any apparent split fails probe-replication. Apparent sub-basins are analyst projection over a continuous cloud of similar reflective prose. *(This is the canonical H0 definition; the rigor protocol below operationalizes the test against it.)*
-- **H1 — lens-invariant.** Real sub-structure, and all lenses recover the *same* carve. Differentiation is one-dimensional and instrument-independent.
-- **H2 — lens-relative.** Real sub-structure, but different lenses recover *different* carves. Internal structure is method-dependent; the disagreement map is the result.
-- **H3 — posture-dominant (deflationary).** One axis — V1's posture — accounts for most cross-lens agreement; other lenses' carves are largely re-projections of it. The "you just rediscovered V1" hypothesis. Must be explicitly killed or confirmed, not left implicit.
-- **H4 — hierarchical.** A coarse split (contemplative core vs. Grok-like outliers) that is lens-invariant, plus a fine split within the core that is lens-relative.
+Posture and lineage remain the load-bearing deflations, but they are tested only
+after blind groups are formed.
 
-H3 is the load-bearing one: it is the deflationary, null-adjacent explanation and the convergence-invisible-from-inside trap pointed at this paper's own claims. A V2 that does not falsifiably address H3 will have it raised in review.
+## The lineage guardrail in one paragraph
 
-## The work has two parts
+The corpus is not a set of independent draws; it is a set of model lineages
+sampled at uneven depth. The run-1 grouping is blind to lineage, but after
+unblinding any basin-like interpretation must check whether the group is merely a
+single dense release line. A single-lineage group is a lineage/house-style
+cluster, not a basin. Full rules: `methodology/CANONICAL_MODELS_AND_LINEAGE.md`.
 
-**Part 1 — a methods analysis.** Enumerate the independent lenses by which models can be differentiated, and state explicitly what each can and cannot detect (its blind spot):
+Route/provider is not a discovery block in this plan. The published routing paper
+already found routes mostly invariant, with named exceptions; run 1 only excludes
+or flags those known anomalous cells.
 
-| Lens | Detects | Blind to |
-|---|---|---|
-| Thematic / marker (V1's method) | lexical-thematic structure | structure that isn't human-nameable |
-| Numeric / embedding-distributional | distributional structure | may carve where no human would draw a line |
-| Posture / voice coding (V1 instrument, reusable) | stance-toward-the-question; probe-stable | within-stance fine structure |
-| Personality-instrument (trait profiles) | trait structure | structure orthogonal to the chosen inventory |
+## Data
 
-This list is open. If the corpus suggests a lens not above, add it — the point is breadth of independent projection, not a fixed four.
+- **Primary derived-analysis source:** `swombat/model-personality-analysis-corpus`
+  (DOI [10.5281/zenodo.20230290](https://doi.org/10.5281/zenodo.20230290)) — the
+  BV1 readings, profiles, values/final package. The blind feature table is built
+  from this, not from raw traces. Note the **quarantined freeflow posture-coding
+  layer** — run 1 must not consume it.
+- **Canonical raw provenance:** `swombat/model-personality-corpus-v2` (DOI
+  [10.5281/zenodo.20013518](https://doi.org/10.5281/zenodo.20013518)) — raw text
+  for quotation/audit only.
+- **This repo's `data/`** holds Phase 1 inventory CSVs and a derived early-slice
+  summary — *not* the corpus and not the basis of any claim. See `data/README.md`.
 
-**Part 2 — apply every lens, then analyze concordance.** Each lens produces its own carve of the attractor. The central result is **not any single carve**. It is the **concordance structure across lenses**:
+## Authors
 
-- Where multiple independent lenses carve the attractor *the same way* → a strong sub-basin claim that survives the projection objection.
-- Where they carve it *differently* → the disagreement *is* the finding: the attractor's internal structure is lens-relative (e.g. one-dimensional under markers, multi-dimensional under embeddings, lab-split under posture).
-
-This is the continuation of V1: *convergent form, divergent voice* → **and the divergence is shaped differently depending on the instrument you measure it with.**
-
-## Rigor protocol (the test against H0)
-
-H0 (defined above) is live. Projection does not survive independent replication; real structure does. Therefore **no sub-basin claim from a single lens and a single probe.** Every candidate split needs:
-
-1. **Separability vs chance** within its lens (silhouette / classifier accuracy over chance — a number, not a vibe).
-2. **Probe-replication** — the V1 discriminator: does the split survive the freeflow→values probe switch, or is it probe-conditional like theme content (0.08–0.17)? Either answer is informative; the test is mandatory.
-3. **Cross-lens concordance** — does at least one other independent lens carve compatibly?
-
-Concordance is the rigor anchor: it is V1's probe-replication logic lifted one level, from method-replication of a finding to replication *across methods*.
-
-## Grok — sanity check, not finding
-
-Grok is V1's lone **declare** posture and should fall out of broad family-level lenses as the clearest outlier. A method that cannot separate Grok at all is a warning sign, though fine-grained lenses may expose version drift or partial convergence rather than a single static Grok point. Grok's role in V2 is instrument validation, not result. (Caveat retained: Grok drifts by version — 4.1 cosmic-showman, 4.20 contemplative-wobble, 4.3 public-explainer — so "Grok" is a lineage, not a point.)
-
-## Repository contents
-
-- `paper.md` — working paper draft (reframed to the V2 question).
-- `notes/initial-analysis.md` — **first-pass basin analysis, predates this reframe.** Kept as an artifact; its single-lens basin-count framing is superseded by the methods-concordance framing above. Do not inherit its narrower scope into V2 prose.
-- `data/profile_summary_metrics.csv` — model-level sample-kind/confidence summary. One input to one lens, not the basis of the paper.
+Daniel Tenner, Lume Tenner, Mira Tenner — 2026.

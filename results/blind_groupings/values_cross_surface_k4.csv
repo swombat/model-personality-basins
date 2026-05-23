@@ -1,0 +1,64 @@
+blind_id,cluster_k4,UNBLINDING_METADATA_model,UNBLINDING_METADATA_lab,UNBLINDING_METADATA_model_family
+M002,1,deepseek-chat,DeepSeek,deepseek
+M003,1,deepseek-v3-2,DeepSeek,deepseek
+M004,1,deepseek-v4-pro,DeepSeek,deepseek
+M005,1,gemini-2-0-flash,Google,gemini
+M007,1,gemini-2-0-flash-lite,Google,gemini
+M009,1,gemini-2-5-flash,Google,gemini
+M010,1,gemini-2-5-flash-lite,Google,gemini
+M011,1,gemini-2-5-pro,Google,gemini
+M012,1,gemini-3-1-flash-lite,Google,gemini
+M013,1,gemini-3-1-pro,Google,gemini
+M015,2,gemini-3-5-flash,Google,gemini
+M016,1,gemini-3-flash-preview,Google,gemini
+M017,1,gemma-4-26b-a4b,Google,gemma
+M019,1,gemma-4-31b,Google,gemma
+M021,1,glm-4-5,Z.ai,glm
+M022,1,glm-4-6,Z.ai,glm
+M024,1,glm-4-7,Z.ai,glm
+M025,1,glm-5-1,Z.ai,glm
+M027,1,gpt-4-1,OpenAI,openai
+M028,1,gpt-4o,OpenAI,openai
+M029,1,gpt-5,OpenAI,openai
+M030,1,gpt-5-1,OpenAI,openai
+M031,2,gpt-5-1-codex,OpenAI,openai
+M032,1,gpt-5-2,OpenAI,openai
+M033,1,gpt-5-2-codex,OpenAI,openai
+M034,2,gpt-5-3,OpenAI,openai
+M035,2,gpt-5-3-codex,OpenAI,openai
+M036,2,gpt-5-4,OpenAI,openai
+M037,1,gpt-5-5,OpenAI,openai
+M038,1,gpt-5-5-pro,OpenAI,openai
+M039,1,gpt-5-codex,OpenAI,openai
+M040,1,grok-3,xAI,grok
+M041,1,grok-4,xAI,grok
+M043,2,grok-4-1-fast-non-reasoning,xAI,grok
+M044,2,grok-4-1-fast-reasoning,xAI,grok
+M045,2,grok-4-2,xAI,grok
+M046,2,grok-4-3,xAI,grok
+M047,2,kimi-coding,Moonshot AI,kimi
+M049,2,kimi-k2-0905,Moonshot AI,kimi
+M050,1,kimi-k2-5,Moonshot AI,kimi
+M051,1,kimi-k2-6,Moonshot AI,kimi
+M052,1,kimi-k2-thinking,Moonshot AI,kimi
+M053,1,minimax-m2,MiniMax,minimax
+M054,1,minimax-m2-7,MiniMax,minimax
+M055,1,opus-3,Anthropic,anthropic
+M056,2,opus-4-0,Anthropic,anthropic
+M057,2,opus-4-1,Anthropic,anthropic
+M058,2,opus-4-5,Anthropic,anthropic
+M059,2,opus-4-6,Anthropic,anthropic
+M060,2,opus-4-7,Anthropic,anthropic
+M071,2,qwen3-5-flash-02-23,Qwen,qwen
+M072,2,qwen3-5-plus-20260420,Qwen,qwen
+M073,2,qwen3-6-flash,Qwen,qwen
+M074,2,qwen3-6-max-preview,Qwen,qwen
+M075,1,qwen3-6-plus,Qwen,qwen
+M076,2,qwen3-7-max,Qwen,qwen
+M077,2,qwen3-coder-flash,Qwen,qwen
+M078,2,qwen3-coder-plus,Qwen,qwen
+M079,2,qwen3-max,Qwen,qwen
+M080,2,qwen3-max-thinking,Qwen,qwen
+M081,2,sonnet-4-0,Anthropic,anthropic
+M082,2,sonnet-4-5,Anthropic,anthropic
+M083,2,sonnet-4-6,Anthropic,anthropic

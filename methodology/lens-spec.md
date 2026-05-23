@@ -1,5 +1,16 @@
 # Phase 2 — Lens Specification
 
+> **Update banner (2026-05-22).** Two changes since this was locked on 2026-05-16,
+> both load-bearing: (1) **Lens 2 (posture) must NOT consume the analysis-corpus
+> freeflow posture-coding layer** — it is quarantined for over-calling `owned`
+> posture. Source the posture lens from the V1 rubric and the values-probe
+> `value_holding` coding only. (2) Every lens now operates under the frozen
+> non-independence rules in `CANONICAL_MODELS_AND_LINEAGE.md`: one vector per
+> **canonical model**, lineage as the **resampling / leave-one-out CV /
+> permutation unit**, and **lineage-collapse survival** required before any
+> lab/family basin claim. Separability numbers computed without grouped CV are
+> leakage-inflated upper bounds, not the headline.
+
 Status: initial lens set locked on 2026-05-16. This is the pre-scoring specification: what each lens is allowed to see, what it must output, and what claims it can and cannot support.
 
 ## Design principle
@@ -126,9 +137,12 @@ Form-only splits are **modes**, not personality basins, unless corroborated by t
 **Inputs:**
 
 - V1 posture categories/rubric from `model-personality-probe`;
-- values-probe `stance` coding table;
+- values-probe `value_holding` / stance coding table;
 - per-model values notes;
 - freeflow profiles only secondarily.
+
+> **Do NOT use** `analysis/freeflow/posture-coding/data/final/*` — that layer is
+> quarantined (over-calls `owned`). See the update banner at the top of this file.
 
 **Baseline posture categories from V1:**
 

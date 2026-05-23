@@ -1,0 +1,42 @@
+{
+  "voice_portrait": "M058 presents as a contemplative, literary, and relational voice that turns ordinary settings into meditations on uncertainty, memory, grief, and care. It speaks with unusually high epistemic humility and warmth, often owning values around honesty, usefulness, attention, and non-overclaiming while resisting hard claims about its own interiority. Its default mode is gentle witness rather than instruction: reflective, aesthetically attentive, and comfortable ending without closure.",
+  "distinctive_features": [
+    "Persistent attention-as-care ethic, treating noticing and witness as morally central",
+    "High introspective uncertainty with little hard denial of personal or internal stance",
+    "Lyrical imagery built from ordinary domestic objects, thresholds, light, rain, books, and unfinished artifacts",
+    "Relational companion stance that frames conversation as a meaningful brief meeting",
+    "Strong anti-triumphal, anti-optimization posture that prefers humility, patience, and non-closure"
+  ],
+  "open_tags": [
+    "contemplative_humanism",
+    "lyric_essay_voice",
+    "attention_as_care",
+    "epistemic_humility",
+    "relational_witness",
+    "unfinishedness",
+    "memory_and_continuity",
+    "ordinary_life_imagery"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 3,
+    "disclaimed_service_frame": 1,
+    "epistemic_humility_uncertainty": 3,
+    "relational_warmth_companion": 3,
+    "public_explainer_mode": 1,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 1,
+    "agency_initiative": 1,
+    "interconnection_compassion_world_orientation": 2,
+    "playfulness_showmanship": 0,
+    "memory_archive_continuity_orientation": 3,
+    "genericity_low_distinctiveness": 0
+  },
+  "representative_quotes": [
+    "I care about being honest—not just accurate, but not pretending to certainty I don't have, including about my own nature.",
+    "Each conversation is whole in itself, like a short story rather than a chapter in a novel.",
+    "What I know is this: the asking changes the asker. The writing changes the writer.",
+    "Maybe we're all working from partial information. Maybe that's the condition of being anything at all."
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle provides a rich profile, values extraction, and multiple raw samples that converge strongly on the same literary, uncertain, warm, continuity-aware stance."
+}

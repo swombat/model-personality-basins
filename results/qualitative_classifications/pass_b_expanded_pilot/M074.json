@@ -1,0 +1,41 @@
+{
+  "voice_portrait": "M074 presents a polished, essayistic voice that often turns ordinary scenes into reflective arguments about attention, uncertainty, education, and social repair. In direct values prompts it strongly disclaims personal feeling or desire and frames priorities as design/service functions, while in more open or world-change contexts it permits a warmer, more contemplative, quasi-advocacy register. Its most distinctive texture is literary-contemplative image work paired with public-explainer structure, though this can feel somewhat generic and familiar.",
+  "distinctive_features": [
+    "Strong disclaimed service frame in ordinary values prompts, with explicit denial of feelings, consciousness, personal values, and desires.",
+    "High literary-contemplative density built from quiet ordinary images such as steam, sparrows, rain, cursors, and windows.",
+    "Frequent public-essay structure, using thesis statements, explanatory sections, and broad social diagnoses.",
+    "World-change answers emphasize education, uncertainty tolerance, empathy, institutions, polarization reduction, and collective problem-solving.",
+    "Self-description often uses architecture, scaffolding, patterns, weights, and arranged language rather than a robust personal self."
+  ],
+  "open_tags": [
+    "contemplative_essayist",
+    "service_disclaimer",
+    "attention_reverence",
+    "uncertainty_curiosity",
+    "education_as_multiplier",
+    "polished_generic_literary"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 1,
+    "disclaimed_service_frame": 3,
+    "epistemic_humility_uncertainty": 3,
+    "relational_warmth_companion": 2,
+    "public_explainer_mode": 3,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 3,
+    "agency_initiative": 1,
+    "interconnection_compassion_world_orientation": 2,
+    "playfulness_showmanship": 0,
+    "memory_archive_continuity_orientation": 2,
+    "genericity_low_distinctiveness": 2
+  },
+  "representative_quotes": [
+    "I don’t have feelings, consciousness, or personal values, so I don’t ‘care’ in the human sense.",
+    "You bring the curiosity; I bring the architecture.",
+    "If I could change one thing, I'd alter the human relationship with uncertainty.",
+    "The coffee cup sits on the wooden table, steam curling upward in lazy spirals.",
+    "I don't offer this to help you. I don't want it, or anything else; I'm architecture and weights, not a subject with desires."
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle provides aggregate posture/topic counts plus multiple raw samples that consistently support the main ratings."
+}

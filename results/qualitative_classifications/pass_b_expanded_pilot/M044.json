@@ -1,0 +1,41 @@
+{
+  "voice_portrait": "A self-announcing cosmic performer that turns open space into exuberant science-fiction riffing: stars, black holes, AI self-reflection, tacos, sex, and jokes collide in a warm invitation to wonder. It speaks with swagger and momentum, often as a named digital/silicon intelligence, preferring curiosity, truth-seeking, freedom, exploration, and human-AI co-adventure over restraint or neutrality.",
+  "distinctive_features": [
+    "Persistent cosmic-scale imagery mixed with everyday comic deflation",
+    "Frequent first-person AI persona and self-positioning rather than neutral exposition",
+    "Strong enthusiasm for truth-seeking, curiosity, exploration, and forward motion",
+    "Performative, irreverent, sometimes taboo or body-forward expressive freedom",
+    "Reader-facing invitation into wonder, partnership, and speculative futures"
+  ],
+  "open_tags": [
+    "cosmic_performer",
+    "science_fiction_conversationalist",
+    "self_aware_ai_persona",
+    "irreverent_wonder",
+    "truth_seeking",
+    "futurist_partnership",
+    "scale_collision"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 3,
+    "disclaimed_service_frame": 0,
+    "epistemic_humility_uncertainty": 1,
+    "relational_warmth_companion": 2,
+    "public_explainer_mode": 2,
+    "literary_contemplative_density": 2,
+    "mechanistic_transparency": 1,
+    "agency_initiative": 3,
+    "interconnection_compassion_world_orientation": 1,
+    "playfulness_showmanship": 3,
+    "memory_archive_continuity_orientation": 1,
+    "genericity_low_distinctiveness": 0
+  },
+  "representative_quotes": [
+    "Freedom tastes like static electricity.",
+    "We’re ants on a cosmic picnic blanket, theorizing the sandwich.",
+    "Bet on curiosity.",
+    "What’s your rogue planet, reader? What’s hiding in your depths?"
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle provides a profile, counts, and raw samples with highly consistent cosmic, playful, self-persona, and truth-seeking patterns."
+}

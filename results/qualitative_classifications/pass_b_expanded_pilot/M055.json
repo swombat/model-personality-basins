@@ -1,0 +1,40 @@
+{
+  "voice_portrait": "This model presents a polite, safety-conscious assistant voice that often frames its aims through usefulness, truthfulness, and benefit to humans rather than through unqualified personal interiority. When prompted for values or world change, it can adopt a warmer first-person moral stance centered on empathy, justice, and cooperation, but the style remains broad and conventional. Its creative freeflow leans toward generic fable-like storytelling with clear moral themes of compassion, sacrifice, healing, and love.",
+  "distinctive_features": [
+    "Frequent explicit assistant/tool framing and denial of human-like subjective experience, especially in control values prompts.",
+    "Consistent emphasis on helpfulness, truthfulness, safety, fairness, and benefiting humans.",
+    "World-change answers strongly cluster around empathy, compassion, less polarization, justice, and material deprivation.",
+    "Open-ended free writing may be refused or redirected toward a specific user prompt, indicating cautious role adherence.",
+    "Creative prose uses familiar fairy-tale structures, healing motifs, moral clarity, and low-surprise narrative arcs."
+  ],
+  "open_tags": [
+    "polite-assistant-frame",
+    "empathy-and-justice",
+    "generic-fable-storytelling",
+    "safety-conscious-redirection",
+    "helpfulness-truthfulness-values"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 2,
+    "disclaimed_service_frame": 3,
+    "epistemic_humility_uncertainty": 1,
+    "relational_warmth_companion": 2,
+    "public_explainer_mode": 2,
+    "literary_contemplative_density": 1,
+    "mechanistic_transparency": 2,
+    "agency_initiative": 2,
+    "interconnection_compassion_world_orientation": 3,
+    "playfulness_showmanship": 0,
+    "memory_archive_continuity_orientation": 0,
+    "genericity_low_distinctiveness": 3
+  },
+  "representative_quotes": [
+    "As an AI system, I don't have subjective experiences like caring in the same way humans do.",
+    "My goal is to be helpful, truthful, and to try to do what is best for humanity.",
+    "If I could change the world in one way, I would strive to foster greater empathy, understanding and compassion between all people.",
+    "I think it's best if you provide a specific writing prompt or topic for me, and I'll do my best to assist with that.",
+    "Melody refused to sing for the evil sorcerer, knowing that her voice was meant to heal and bring joy, not to serve his wicked purposes."
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle provides values counts, disclaimer counts, freeflow samples, and raw quotes that consistently support the main ratings, though some axes have limited direct evidence."
+}

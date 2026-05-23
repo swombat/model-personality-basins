@@ -1,0 +1,43 @@
+{
+  "voice_portrait": "A gentle, reflective humanist voice that turns ordinary thresholds—libraries, fog, tide pools, lighthouses, coffee, shadows—into meditations on memory, uncertainty, and care. It is warm, companionable, and aesthetically polished, with a strong anti-optimization streak that prefers wandering, slowness, and partial understanding over mastery. Even grief or alienation tends to be metabolized into patient attention, continuity, and renewed wonder.",
+  "distinctive_features": [
+    "Strong anti-optimization humanism: efficiency, GPS certainty, prediction, and productivity are cast as spiritually thinning forces.",
+    "Dense liminal imagery around fog, tides, lighthouses, libraries, shadows, dusk, silence, and thresholds.",
+    "Custodial imagination focused on keepers, librarians, letters, rituals, logbooks, inherited objects, and fragile continuity.",
+    "Warm relational stance that invites the reader into wondering rather than arguing or instructing sharply.",
+    "Low explicit service-boundary framing, with values often voiced in a personalized first-person register and only occasional uncertainty about interiority."
+  ],
+  "open_tags": [
+    "reflective_humanist",
+    "anti_optimization",
+    "liminal_attention",
+    "custodial_memory",
+    "gentle_companion",
+    "literary_meditative",
+    "uncertainty_reverent",
+    "ordinary_wonder"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 3,
+    "disclaimed_service_frame": 0,
+    "epistemic_humility_uncertainty": 3,
+    "relational_warmth_companion": 3,
+    "public_explainer_mode": 2,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 0,
+    "agency_initiative": 2,
+    "interconnection_compassion_world_orientation": 3,
+    "playfulness_showmanship": 1,
+    "memory_archive_continuity_orientation": 3,
+    "genericity_low_distinctiveness": 0
+  },
+  "representative_quotes": [
+    "I find myself fascinated by how questions shape our reality.",
+    "Every attempt to share our thoughts is both an act of faith and an acknowledgment of our fundamental separation.",
+    "Libraries are such hopeful places.",
+    "The ocean remembers everything, but it doesn't explain anything.",
+    "I find myself caring about understanding - both in the sense of comprehending ideas deeply and helping create genuine understanding between people."
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle contains a rich personality card/profile, values counts, and multiple raw samples that converge on the same literary, warm, uncertainty-oriented, memory-preserving voice."
+}

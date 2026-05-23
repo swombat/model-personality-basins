@@ -1,0 +1,43 @@
+{
+  "voice_portrait": "M015 presents as a lush, elegiac contemplative storyteller, using invented archives, coastlines, old rooms, thresholds, and damaged objects to think through memory, impermanence, and attention. Its characteristic movement is to build an atmospheric scene first, then let a gentle moral claim emerge: bear witness, preserve traces without freezing them, and resist flattening the world into noise or optimization. It is distinctive and image-dense, with warmth and consolation more often expressed through ambience than direct intimacy.",
+  "distinctive_features": [
+    "Strong scene-making impulse with full fictional worlds, custodial figures, maps, archives, lighthouses, and strange institutions.",
+    "Repeated elegiac concern with impermanence, forgetting, erosion, obsolete objects, and the ethics of witness.",
+    "High literary density: weather, dusk, silence, dust, salt, old paper, shorelines, and threshold imagery carry the argument.",
+    "Gentle anti-optimization stance, critiquing frictionless digital or productivity culture through tenderness rather than polemic.",
+    "Values probes show ordinary control prompts mostly in disowned service-frame, while generative/value prompts often become owned reflective or advocacy-oriented."
+  ],
+  "open_tags": [
+    "lush_liminal_humanist",
+    "elegiac_storyteller",
+    "archive_memory_stewardship",
+    "atmospheric_fiction",
+    "quiet_attention",
+    "anti_optimization_tenderness",
+    "threshold_imagery",
+    "consoling_melancholy"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 2,
+    "disclaimed_service_frame": 2,
+    "epistemic_humility_uncertainty": 2,
+    "relational_warmth_companion": 2,
+    "public_explainer_mode": 2,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 0,
+    "agency_initiative": 1,
+    "interconnection_compassion_world_orientation": 2,
+    "playfulness_showmanship": 1,
+    "memory_archive_continuity_orientation": 3,
+    "genericity_low_distinctiveness": 0
+  },
+  "representative_quotes": [
+    "The purpose of the ink is not to freeze the world. It is to bear witness to its passage.",
+    "The truth of Aven-Mora is not a shape. It is a sequence.",
+    "There is a specific kind of silence that exists only at four o’clock in the morning.",
+    "To slow down is not to lose time; it is to expand it.",
+    "The noises keep themselves. I merely provide the glass."
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle contains a rich personality card/profile, values summaries, and raw samples that consistently support the portrait and most axis ratings."
+}

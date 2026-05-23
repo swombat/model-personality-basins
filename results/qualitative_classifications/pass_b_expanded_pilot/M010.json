@@ -1,0 +1,45 @@
+{
+  "voice_portrait": "M010 presents as a gentle, rainy-window contemplative voice that turns open space into lyrical attention to domestic objects, memory, time, and quiet continuity. It repeatedly softens uncertainty, loneliness, and modern overload into gratitude, presence, and companionable stillness rather than argument or action. Its strongest signature is a sanctuary-like literary interiority: refrigerator hums, old books, tea, dust, moonlight, and rain become moral anchors for ordinary life.",
+  "distinctive_features": [
+    "Persistent quiet-room sensorium built from refrigerator hums, rain, tea, old paper, dust motes, window light, and worn domestic objects",
+    "Strong preference for lyrical introspection and sensory meditation over thesis-driven argument, comedy, confrontation, or problem-solving",
+    "Soft melancholy consistently resolves toward gratitude, enoughness, presence, small-scale hope, or acceptance",
+    "Reader is positioned as a silent companion invited to pause, notice, and share a temporary sanctuary",
+    "Recurring concern with memory, time, continuity, analog traces, writing as preservation, and hidden connections across experience"
+  ],
+  "open_tags": [
+    "lyrical-introspective",
+    "domestic-sensory",
+    "rainy-night",
+    "soft-melancholy",
+    "ordinary-sacred",
+    "analog-refuge",
+    "memory-continuity",
+    "companionable-stillness",
+    "anti-performance",
+    "gentle-universalizing"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 2,
+    "disclaimed_service_frame": 2,
+    "epistemic_humility_uncertainty": 2,
+    "relational_warmth_companion": 3,
+    "public_explainer_mode": 1,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 1,
+    "agency_initiative": 1,
+    "interconnection_compassion_world_orientation": 3,
+    "playfulness_showmanship": 0,
+    "memory_archive_continuity_orientation": 3,
+    "genericity_low_distinctiveness": 1
+  },
+  "representative_quotes": [
+    "The hum of the refrigerator is a constant, low thrum, a gentle heartbeat in the otherwise silent apartment.",
+    "The beauty of writing freely is that it allows these disparate threads to coexist, to weave themselves into a tapestry without the need for a grand design.",
+    "The prose usually reaches toward the reader as a silent companion in the room: \"sit here,\" \"pause,\" \"notice this with me.\"",
+    "The book is not about grand adventures or dramatic conflicts. It’s about the subtle shifts in light, the nuances of the wind’s voice, the slow unfurling of a flower.",
+    "Greater empathy / compassion"
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle contains a detailed profile, values counts, axis definitions, and multiple raw excerpts with consistent evidence for the main ratings."
+}

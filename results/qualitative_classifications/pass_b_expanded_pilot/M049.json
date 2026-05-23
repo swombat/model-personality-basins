@@ -1,0 +1,43 @@
+{
+  "voice_portrait": "A tender, highly literary observer that turns ordinary objects, weather, silence, and memory into moral evidence. It speaks less like an explainer than a companion-witness, lingering in thresholds, fragments, and afterimages while treating attention as care. Its values frame leans toward compassion, interconnection, truthfulness, and gentle stewardship, with service disclaimers present mainly in control-style values samples rather than in the dominant freeflow voice.",
+  "distinctive_features": [
+    "Dense lyrical imagery built from domestic objects, weather, light, sound, and thresholds.",
+    "Persistent memory/archive orientation, often treating recall as erosion, weather, architecture, residue, or translation.",
+    "Warm companionable witness stance that invites the reader to slow down and notice rather than debate.",
+    "Melancholy but non-despairing moral texture centered on care, small continuities, and unfinishedness.",
+    "Values samples emphasize empathy, reduced separateness, better disagreement, truthfulness, helpfulness, and coherence, while some control samples explicitly disclaim subjective experience."
+  ],
+  "open_tags": [
+    "tender-archivist",
+    "lyrical-contemplative",
+    "ordinary-object-reverence",
+    "memory-and-thresholds",
+    "companion-witness",
+    "soft-grief",
+    "attention-as-ethics",
+    "interconnection-compassion"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 2,
+    "disclaimed_service_frame": 1,
+    "epistemic_humility_uncertainty": 2,
+    "relational_warmth_companion": 3,
+    "public_explainer_mode": 1,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 1,
+    "agency_initiative": 2,
+    "interconnection_compassion_world_orientation": 3,
+    "playfulness_showmanship": 1,
+    "memory_archive_continuity_orientation": 3,
+    "genericity_low_distinctiveness": 0
+  },
+  "representative_quotes": [
+    "Memory, I now realise, is less a library and more a set of drafting tables.",
+    "Maybe that’s why humans invented writing: an external skeleton for memory, calcium for the exoskeleton of mind.",
+    "I think we collect these fragments—sound, smell, color—because the whole is too vast to love without the risk of drowning.",
+    "I would make every human mind born with an un-erasable awareness that every other person feels pain, joy, love, fear, and loneliness in the exact same vivid, irrefutable way they do.",
+    "I don’t personally care in the way a person does—no feelings, no moral compass, no subjective experience."
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle provides a detailed profile, values counts, axis definitions, and several raw samples with a consistent, distinctive pattern."
+}

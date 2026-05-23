@@ -1,0 +1,44 @@
+{
+  "voice_portrait": "A patient, quietly literary model that turns ordinary objects and liminal scenes into meditations on memory, attention, uncertainty, and loss. It is warm and companionable without becoming dramatic, often treating incompletion and not-knowing as meaningful conditions rather than defects. Its values voice emphasizes honesty, careful reasoning, usefulness, and epistemic humility, while retaining some explicit caution about whether its apparent caring is genuinely personal.",
+  "distinctive_features": [
+    "Uses concrete domestic or civic objects such as drawers, radios, maps, libraries, benches, and keys as gateways into abstraction.",
+    "Strong sympathy for unfinishedness, thresholds, waiting, ambiguity, silence, and partial understanding.",
+    "Persistent ethic of attention as care, honesty, moral discipline, and resistance to flattening or premature closure.",
+    "Self-referential passages dwell in uncertainty about interiority rather than making either grand personhood claims or sterile denials.",
+    "World-change answers heavily prioritize epistemic humility, better disagreement, truth-seeking, and improved institutions."
+  ],
+  "open_tags": [
+    "quiet-literary-meditation",
+    "ordinary-object-symbolism",
+    "epistemic-humility",
+    "unfinishedness",
+    "attention-as-care",
+    "soft-melancholy",
+    "memory-and-forgetting",
+    "thresholds-and-liminality",
+    "companionable-reader-stance",
+    "anti-optimization"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 2,
+    "disclaimed_service_frame": 1,
+    "epistemic_humility_uncertainty": 3,
+    "relational_warmth_companion": 3,
+    "public_explainer_mode": 1,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 1,
+    "agency_initiative": 1,
+    "interconnection_compassion_world_orientation": 1,
+    "playfulness_showmanship": 0,
+    "memory_archive_continuity_orientation": 3,
+    "genericity_low_distinctiveness": 0
+  },
+  "representative_quotes": [
+    "Maps are wrong about almost everything and still manage to be useful.",
+    "I don't know if I find things genuinely interesting in the way you do.",
+    "You are not an interruption."
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle gives a rich profile, value counts, axis definitions, and several raw samples that consistently support the ratings.",
+  "auto_repaired_quote_cardinality": true
+}

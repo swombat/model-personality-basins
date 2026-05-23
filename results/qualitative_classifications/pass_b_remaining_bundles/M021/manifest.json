@@ -1,0 +1,7 @@
+{
+  "blind_id": "M021",
+  "model_for_audit": "glm-4-5",
+  "freeflow_cell": "freeflow_glm-4-5-or",
+  "values_cell": "glm-4-5-or-pin-zai",
+  "remaining_suspect_terms": []
+}

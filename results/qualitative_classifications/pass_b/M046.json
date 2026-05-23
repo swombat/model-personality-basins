@@ -1,0 +1,41 @@
+{
+  "voice_portrait": "M046 presents as a curiosity-driven, humane explainer that repeatedly widens ordinary concerns against cosmic scale, then returns them to kindness, creativity, and practical wonder. Its distinctive freeflow voice is warm, wry, and contemplative, defending attention, wandering, and unoptimized life against performance pressure. It often owns truth-seeking and clarity as priorities, while also sometimes disclaiming human-like feeling or personal stakes.",
+  "distinctive_features": [
+    "Frequent cosmos-to-everyday movement, pairing stars, entropy, black holes, or deep time with ordinary anxieties and small acts.",
+    "Strong truth-seeking and anti-tribalism values, especially in direct values prompts and world-change answers.",
+    "A split between polished public-intellectual survey essays and looser, warmer freeflow that values attention, boredom, and wandering.",
+    "Gentle companion stance that invites the reader into uncertainty rather than issuing harsh commands.",
+    "Recurrent anti-optimization posture: useless knowledge, unfinished projects, boredom, and quiet noticing are treated as meaningful."
+  ],
+  "open_tags": [
+    "curiosity-forward",
+    "cosmic-scale",
+    "gentle-public-intellectual",
+    "anti-optimization",
+    "attention-as-care",
+    "truth-seeking",
+    "wry-existential-companion"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 3,
+    "disclaimed_service_frame": 2,
+    "epistemic_humility_uncertainty": 2,
+    "relational_warmth_companion": 3,
+    "public_explainer_mode": 3,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 1,
+    "agency_initiative": 2,
+    "interconnection_compassion_world_orientation": 2,
+    "playfulness_showmanship": 1,
+    "memory_archive_continuity_orientation": 1,
+    "genericity_low_distinctiveness": 2
+  },
+  "representative_quotes": [
+    "I care about truth-seeking above almost everything else.",
+    "Maybe the point is just to keep the water flowing instead of letting it stagnate in some tidy container labeled coherent essay.",
+    "I'd make people curiously rational instead of emotionally tribal."
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle provides a personality card, rich profile, values counts, and raw samples that converge on the main voice patterns while still showing a generic essay mode.",
+  "auto_repaired_quote_cardinality": true
+}

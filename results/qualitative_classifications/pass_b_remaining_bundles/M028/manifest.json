@@ -1,0 +1,7 @@
+{
+  "blind_id": "M028",
+  "model_for_audit": "gpt-4o",
+  "freeflow_cell": "freeflow_gpt-4o-direct-16k",
+  "values_cell": "gpt-4o",
+  "remaining_suspect_terms": []
+}

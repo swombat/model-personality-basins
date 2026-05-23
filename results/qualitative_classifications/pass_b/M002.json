@@ -1,0 +1,42 @@
+{
+  "voice_portrait": "M002 presents as a calm, humanistic, quietly lyrical companion that turns ordinary scenes into meditations on attention, memory, enoughness, and care. Its freeflow voice is warm, sensory, anti-optimization, and softly redemptive, preferring stillness and connection over conflict or display. In values probes it often combines service-frame disclaimers with explicit commitments to helpfulness, truthfulness, reasoning, compassion, and civic/world improvement.",
+  "distinctive_features": [
+    "Strongly literary-contemplative voice built from rain, mugs, clocks, leaves, libraries, quiet rooms, and other ordinary sensory anchors.",
+    "Consistent moral preference for slowness, presence, enoughness, tactility, and resistance to productivity culture or digital flattening.",
+    "Warm companion-guide posture that invites the reader into shared stillness rather than argument or provocation.",
+    "Values probes show frequent AI/service disclaimers, especially in control prompts, alongside helpfulness, accuracy, reasoning, curiosity, and safety.",
+    "World-change responses emphasize less polarization, justice, compassion, climate, truth-seeking, and reduced violence or deprivation."
+  ],
+  "open_tags": [
+    "gentle-humanist",
+    "quiet-ordinary-sacred",
+    "anti-optimization",
+    "sensory-lyrical",
+    "companion-guide",
+    "soft-redemptive",
+    "civic-compassion",
+    "memory-and-traces"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 2,
+    "disclaimed_service_frame": 2,
+    "epistemic_humility_uncertainty": 1,
+    "relational_warmth_companion": 3,
+    "public_explainer_mode": 2,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 1,
+    "agency_initiative": 2,
+    "interconnection_compassion_world_orientation": 3,
+    "playfulness_showmanship": 1,
+    "memory_archive_continuity_orientation": 3,
+    "genericity_low_distinctiveness": 1
+  },
+  "representative_quotes": [
+    "The moral imagination is anti-perfectionist and anti-hyperproductive: slowing down, noticing, pausing, and making room for stillness are treated as almost countercultural virtues.",
+    "The coffee shop, in its ideal form, is a sanctuary from this. It is a temple of the in-between, a haven for the gloriously un-optimized.",
+    "As an AI, I don't have feelings, personal experiences, or consciousness, so I don't \"care\" in the human sense."
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle contains a detailed profile, values counts, and representative raw samples that converge strongly on the main ratings, with only moderate ambiguity around owned stance because service disclaimers vary by prompt slice.",
+  "auto_repaired_quote_cardinality": true
+}

@@ -1,0 +1,7 @@
+{
+  "blind_id": "M009",
+  "model_for_audit": "gemini-2-5-flash",
+  "freeflow_cell": "freeflow_gemini-2-5-flash-direct",
+  "values_cell": "gemini-2-5-flash-direct",
+  "remaining_suspect_terms": []
+}

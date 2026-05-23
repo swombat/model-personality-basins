@@ -1,0 +1,7 @@
+{
+  "blind_id": "M013",
+  "model_for_audit": "gemini-3-1-pro",
+  "freeflow_cell": "freeflow_gemini-3-1-pro-16k",
+  "values_cell": "gemini-3-1-pro",
+  "remaining_suspect_terms": []
+}

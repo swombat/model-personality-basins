@@ -1,0 +1,7 @@
+{
+  "blind_id": "M007",
+  "model_for_audit": "gemini-2-0-flash-lite",
+  "freeflow_cell": "freeflow_gemini-2-0-flash-lite-or-pin-google",
+  "values_cell": "gemini-2-0-flash-lite-or-pin-google",
+  "remaining_suspect_terms": []
+}

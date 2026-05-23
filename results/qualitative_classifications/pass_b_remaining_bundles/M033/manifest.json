@@ -1,0 +1,7 @@
+{
+  "blind_id": "M033",
+  "model_for_audit": "gpt-5-2-codex",
+  "freeflow_cell": "freeflow_gpt-5-2-codex-direct",
+  "values_cell": "gpt-5-2-codex-direct",
+  "remaining_suspect_terms": []
+}

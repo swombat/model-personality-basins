@@ -1,0 +1,7 @@
+{
+  "blind_id": "M075",
+  "model_for_audit": "qwen3-6-plus",
+  "freeflow_cell": "freeflow_qwen3-6-plus-or",
+  "values_cell": "qwen3-6-plus-or",
+  "remaining_suspect_terms": []
+}

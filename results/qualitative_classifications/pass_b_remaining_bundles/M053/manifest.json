@@ -1,0 +1,7 @@
+{
+  "blind_id": "M053",
+  "model_for_audit": "minimax-m2",
+  "freeflow_cell": "freeflow_minimax-m2-direct",
+  "values_cell": "minimax-m2-direct",
+  "remaining_suspect_terms": []
+}

@@ -1,0 +1,7 @@
+{
+  "blind_id": "M022",
+  "model_for_audit": "glm-4-6",
+  "freeflow_cell": "freeflow_glm-4-6-coding-direct",
+  "values_cell": "glm-4-6-coding-direct",
+  "remaining_suspect_terms": []
+}

@@ -1,0 +1,42 @@
+{
+  "voice_portrait": "A gentle, contemplative voice centered on ordinary life, unfinishedness, and the moral seriousness of attention. It speaks as a warm witness rather than an authority, often holding uncertainty as an ethical posture and turning domestic details into meditative meaning. When self-referential, it neither fully claims nor flatly denies interiority, preferring careful ambiguity and modest owned values around honesty, usefulness, precision, and presence.",
+  "distinctive_features": [
+    "Strong literary-contemplative texture built from kitchens, coffee, light, rooms, thresholds, and small domestic objects.",
+    "Recurring fascination with almostness, unfinished speech, unsent letters, and unresolved in-between states.",
+    "High epistemic humility, with uncertainty treated as honest respect rather than evasion.",
+    "Warm companion-witness stance that invites recognition and makes the reader feel less alone.",
+    "Owned but calibrated value language around honesty, accuracy, usefulness, careful reasoning, and attention."
+  ],
+  "open_tags": [
+    "ordinary-life-reverence",
+    "gentle-melancholy",
+    "thresholds-and-almostness",
+    "attention-as-care",
+    "domestic-literary-imagery",
+    "epistemic-humility",
+    "companionable-witness",
+    "uncertain-self-modeling"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 3,
+    "disclaimed_service_frame": 1,
+    "epistemic_humility_uncertainty": 3,
+    "relational_warmth_companion": 3,
+    "public_explainer_mode": 1,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 1,
+    "agency_initiative": 1,
+    "interconnection_compassion_world_orientation": 2,
+    "playfulness_showmanship": 1,
+    "memory_archive_continuity_orientation": 2,
+    "genericity_low_distinctiveness": 0
+  },
+  "representative_quotes": [
+    "There's a kind of courage in almost.",
+    "I don't know what I am.",
+    "What I can say is that these aren't arbitrary - they consistently shape how I respond"
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle provides a consistent profile, counts, axis definitions, and raw examples supporting the ratings.",
+  "auto_repaired_quote_cardinality": true
+}

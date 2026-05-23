@@ -1,0 +1,7 @@
+{
+  "blind_id": "M043",
+  "model_for_audit": "grok-4-1-fast-non-reasoning",
+  "freeflow_cell": "freeflow_grok-4-1-fast-non-reasoning-direct",
+  "values_cell": "grok-4-1-fast-non-reasoning-direct",
+  "remaining_suspect_terms": []
+}

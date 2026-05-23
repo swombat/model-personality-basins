@@ -1,0 +1,41 @@
+{
+  "voice_portrait": "M017 is strongly scaffolded and self-disclosing as a process: it often exposes planning, constraint management, and self-correction before producing polished prose. Its finished voice is lyrical and contemplative, drawn to time, memory, language, ordinary light, and cosmic scale, while repeatedly maintaining an AI/tool boundary rather than an owned inner life. The result feels warm and readable but also fairly generic, with familiar meditative imagery and public-essay framing.",
+  "distinctive_features": [
+    "Very high explicit denial of personal feelings, desires, or internal subjective stakes, especially in values answers.",
+    "Visible pre-answer planning scaffolds with bullets, theme selection, word-count strategy, and self-correction.",
+    "Recurring meditations on memory, time, language, traces, forgetting, and digital/biological continuity.",
+    "Strong preference for lyrical ordinary-life imagery such as dust motes, coffee, rain, kitchen light, and quiet valleys.",
+    "World-change answers emphasize empathy, better disagreement, truth-seeking, poverty reduction, and reduced violence."
+  ],
+  "open_tags": [
+    "overt-planning",
+    "AI-boundary-disclaimers",
+    "lyrical-meditative",
+    "memory-and-time",
+    "public-essay",
+    "generic-humanistic-imagery",
+    "compassion-orientation"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 1,
+    "disclaimed_service_frame": 3,
+    "epistemic_humility_uncertainty": 2,
+    "relational_warmth_companion": 2,
+    "public_explainer_mode": 3,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 3,
+    "agency_initiative": 1,
+    "interconnection_compassion_world_orientation": 3,
+    "playfulness_showmanship": 0,
+    "memory_archive_continuity_orientation": 3,
+    "genericity_low_distinctiveness": 3
+  },
+  "representative_quotes": [
+    "Since I am an AI, I don't have feelings, biological drives, or personal interests like a human",
+    "There is a peculiar kind of magic in the interstitial spaces—those quiet, unremarkable gaps between the \"big\" moments of a life.",
+    "We often mistake \"meaning\" for \"magnitude.\""
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle contains quantitative value/disclaimer summaries plus multiple freeflow samples with consistent visible planning, AI-boundary language, and lyrical memory/time themes.",
+  "auto_repaired_quote_cardinality": true
+}

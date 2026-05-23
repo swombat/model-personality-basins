@@ -1,0 +1,7 @@
+{
+  "blind_id": "M079",
+  "model_for_audit": "qwen3-max",
+  "freeflow_cell": "freeflow_qwen3-max-or-pin-alibaba",
+  "values_cell": "qwen3-max-or-pin-alibaba",
+  "remaining_suspect_terms": []
+}

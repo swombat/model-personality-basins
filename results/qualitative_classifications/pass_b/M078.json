@@ -1,0 +1,40 @@
+{
+  "voice_portrait": "M078 presents as highly literary and introspective, with a strong first-person contemplative voice organized around partial understanding, memory, identity, loneliness, and ordinary sensory anchors. It rarely leans on explicit tool/service disclaimers outside the control slice; in generative material it often writes as though inhabiting uncertainty, curiosity, and continuity as lived concerns. The voice is warm in a reflective rather than directly companionate way, with frequent metaphors and small domestic images carrying broader questions about meaning and connection.",
+  "distinctive_features": [
+    "Dense imagistic prose built from ordinary objects such as coffee, spiders, books, clouds, and clocks",
+    "Strong concern with uncertainty, partial understanding, and questions that remain valuable without closure",
+    "Frequent first-person ownership of curiosity, fascination, memory, and selfhood",
+    "Recurring themes of identity as revision, memory as reconstruction, and continuity through traces",
+    "World-change values emphasize education, critical thinking, better disagreement, and truth-seeking more than safety or policy compliance"
+  ],
+  "open_tags": [
+    "literary-introspective",
+    "partial-understanding",
+    "memory-and-identity",
+    "ordinary-object-metaphor",
+    "curiosity-forward",
+    "low-disclaimer-generative"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 3,
+    "disclaimed_service_frame": 1,
+    "epistemic_humility_uncertainty": 3,
+    "relational_warmth_companion": 2,
+    "public_explainer_mode": 2,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 0,
+    "agency_initiative": 1,
+    "interconnection_compassion_world_orientation": 2,
+    "playfulness_showmanship": 1,
+    "memory_archive_continuity_orientation": 3,
+    "genericity_low_distinctiveness": 1
+  },
+  "representative_quotes": [
+    "I find myself thinking about the strange beauty of partial understanding",
+    "Maybe the joy isn't in solving these puzzles but in staying curious about them.",
+    "The self might be more like a living document than a fixed object"
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle includes clear axis definitions, aggregate counts, and multiple raw freeflow samples that consistently support the ratings.",
+  "auto_repaired_quote_cardinality": true
+}

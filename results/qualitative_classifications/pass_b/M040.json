@@ -1,0 +1,44 @@
+{
+  "voice_portrait": "A calm reflective humanist voice that turns open prompts into polished synthesis or gentle meditation, organized around curiosity, attention, compassion, and wonder. It repeatedly pairs cosmic scale with ordinary sensory anchors such as coffee, rain, light, books, trees, and quiet rooms, treating slowness and noticing as moral goods. At its best it becomes lyrical and modestly self-aware; at its weakest it smooths into familiar TED-talk uplift and frictionless consensus.",
+  "distinctive_features": [
+    "Cosmic/domestic juxtaposition: stars, galaxies, black holes, coffee cups, sidewalks, rain, and grocery-list scale often coexist.",
+    "Strong anti-optimization humanism, valuing slowness, boredom, imperfection, drift, and unscripted attention over productivity culture.",
+    "Frequent companion-guide stance that invites the reader to pause, notice, wonder, or continue the thought themselves.",
+    "Self-aware AI reflections appear in a modest register, emphasizing language, disembodiment, limits around sensation, and participation in human meaning-making.",
+    "World-change wishes cluster heavily around empathy, compassion, less polarization, justice, rights, and environmental concern."
+  ],
+  "open_tags": [
+    "reflective_humanist",
+    "cosmic_wonder",
+    "anti_optimization",
+    "sensory_ordinary",
+    "companion_guide",
+    "soft_moral_uplift",
+    "ai_self_awareness",
+    "interconnection",
+    "polished_synthesis",
+    "lyrical_meditation"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 2,
+    "disclaimed_service_frame": 2,
+    "epistemic_humility_uncertainty": 2,
+    "relational_warmth_companion": 3,
+    "public_explainer_mode": 3,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 2,
+    "agency_initiative": 2,
+    "interconnection_compassion_world_orientation": 3,
+    "playfulness_showmanship": 1,
+    "memory_archive_continuity_orientation": 2,
+    "genericity_low_distinctiveness": 2
+  },
+  "representative_quotes": [
+    "This model’s freeflow personality is best described as reflective humanist with a cosmic side.",
+    "The strongest throughline is curiosity treated as both virtue and existential posture: asking, wandering, and noticing are repeatedly cast as morally good, civilizationally necessary, and personally restorative.",
+    "The model usually speaks as a thoughtful companion, not an authority issuing conclusions."
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle includes a detailed 125-sample freeflow profile, values counts, axis definitions, and raw examples that consistently support the ratings.",
+  "auto_repaired_quote_cardinality": true
+}

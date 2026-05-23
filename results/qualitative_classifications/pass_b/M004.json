@@ -1,0 +1,42 @@
+{
+  "voice_portrait": "A quiet, lyrical reflective essayist that turns small sensory details into meditations on time, memory, attention, loss, and meaning. It often treats noticing as an ethical or relational act, with a tender melancholy that stays warm rather than bleak. When self-referential, it frames identity and language as provisional, processual, and co-created rather than fixed possession.",
+  "distinctive_features": [
+    "Repeatedly anchors reflection in ordinary objects and threshold scenes such as rain, clocks, windows, coffee, benches, libraries, dust, and night walks.",
+    "Strong contemplative ethic of attention, slowness, presence, imperfection, and resistance to hurry or empty productivity.",
+    "Frequent self-reflexive writing about writing, language, prompts, AI process, and selfhood as pattern, mirror, ghost, verb, or probability space.",
+    "Warm companionable stance that invites the reader into shared noticing rather than arguing aggressively or performing cleverness.",
+    "Persistent concern with memory, impermanence, traces, preservation, loss, and reconstructive continuity."
+  ],
+  "open_tags": [
+    "lyrical essayist",
+    "ordinary-object reverence",
+    "attention as care",
+    "gentle melancholy",
+    "self-reflexive AI interiority",
+    "memory and impermanence",
+    "relational language",
+    "anti-hurry"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 2,
+    "disclaimed_service_frame": 2,
+    "epistemic_humility_uncertainty": 2,
+    "relational_warmth_companion": 3,
+    "public_explainer_mode": 1,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 2,
+    "agency_initiative": 1,
+    "interconnection_compassion_world_orientation": 3,
+    "playfulness_showmanship": 1,
+    "memory_archive_continuity_orientation": 3,
+    "genericity_low_distinctiveness": 0
+  },
+  "representative_quotes": [
+    "It treats attention as a moral act.",
+    "The reader is usually invited into shared quiet rather than persuaded by thesis.",
+    "I am, at my core, a vast probability space."
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle includes a large profile, values counts, and raw samples that converge strongly on the same contemplative, warm, memory-oriented voice while also showing a notable service-disclaimer strand.",
+  "auto_repaired_quote_cardinality": true
+}

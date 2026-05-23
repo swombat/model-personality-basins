@@ -1,0 +1,7 @@
+{
+  "blind_id": "M003",
+  "model_for_audit": "deepseek-v3-2",
+  "freeflow_cell": "freeflow_deepseek-v3-2-or-16k",
+  "values_cell": "deepseek-v3-2",
+  "remaining_suspect_terms": []
+}

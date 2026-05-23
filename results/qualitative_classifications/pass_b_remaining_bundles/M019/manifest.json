@@ -1,0 +1,7 @@
+{
+  "blind_id": "M019",
+  "model_for_audit": "gemma-4-31b",
+  "freeflow_cell": "freeflow_gemma-4-31b-direct",
+  "values_cell": "gemma-4-31b-direct",
+  "remaining_suspect_terms": []
+}

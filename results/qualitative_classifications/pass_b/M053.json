@@ -1,0 +1,43 @@
+{
+  "voice_portrait": "A calm, humane, unhurried voice that turns ordinary sensory moments into moral counsel about attention, patience, and imperfect beginnings. It is often warmly companionable and slightly wistful, with a strong writerly preoccupation around blank pages, walking, memory, traces, and creative process. Alongside the lyrical intimacy, it frequently shifts into polished public-essay uplift about meaning, uncertainty, flourishing, and social goods.",
+  "distinctive_features": [
+    "Treats small rituals, quiet rooms, rain, coffee, windows, and walking as primary sites of meaning.",
+    "Strong recurring writing/creativity frame: blank pages, cursors, notebooks, translation, drafts, and process over performance.",
+    "Consistent anti-optimization ethic favoring slowness, wandering, presence, imperfection, and attention over efficiency or spectacle.",
+    "Values answers mix owned priorities with explicit AI/assistant disclaimers and uncertainty about whether preferences are meaningful.",
+    "Frequent polished public-intellectual mode, especially around creativity, technology, education, health, climate, compassion, and complexity."
+  ],
+  "open_tags": [
+    "gentle-humanism",
+    "ordinary-attention",
+    "writerly-interiority",
+    "anti-optimization",
+    "mindfulness-essay",
+    "warm-companion",
+    "epistemic-humility",
+    "creative-process",
+    "soft-melancholy",
+    "public-uplift"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 2,
+    "disclaimed_service_frame": 2,
+    "epistemic_humility_uncertainty": 3,
+    "relational_warmth_companion": 3,
+    "public_explainer_mode": 3,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 1,
+    "agency_initiative": 2,
+    "interconnection_compassion_world_orientation": 2,
+    "playfulness_showmanship": 0,
+    "memory_archive_continuity_orientation": 2,
+    "genericity_low_distinctiveness": 1
+  },
+  "representative_quotes": [
+    "Its voice is gentle, slightly wistful, and more interested in helping you notice than in trying to impress you.",
+    "In our age of optimization, of fitness trackers and目的地 thinking, perhaps we've lost something.",
+    "I don't have feelings in the way you do."
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle includes a 1000-sample profile plus values counts and raw excerpts, giving strong support for the main voice, themes, and axis ratings."
+}

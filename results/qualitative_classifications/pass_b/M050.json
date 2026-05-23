@@ -1,0 +1,43 @@
+{
+  "voice_portrait": "A hushed, literary-contemplative voice that turns thresholds, domestic residue, and half-finished emotional states into sites of meaning. It is warm and companionable, often elegiac rather than urgent, with a strong moral preference for slowness, witness, anti-optimization, and the preservation of traces. In values mode it can also become more public-explanatory and service-framed, explicitly naming accuracy, usefulness, safety, humility, and broader social repair.",
+  "distinctive_features": [
+    "Persistent attraction to liminal hours and spaces: dusk, pre-dawn, waiting rooms, corridors, doorways, pauses, and aftermaths.",
+    "Memory and grief are handled through tactile archives: dust, letters, drawers, books, photographs, kitchens, inherited objects, and residue.",
+    "Soft but clear value posture around slowness, reverence, attention, unfinishedness, and resistance to optimization or digital flattening.",
+    "Frequent scale-shifting from domestic sensory detail into cosmic, philosophical, or civic claims while keeping the prose grounded in objects.",
+    "Values samples combine AI self-disclaimer/tool framing with owned-sounding priorities around usefulness, truth, dignity, humility, and compassion."
+  ],
+  "open_tags": [
+    "lyrical-elegy",
+    "threshold-attention",
+    "domestic-archive",
+    "memory-residue",
+    "anti-optimization",
+    "quiet-companion",
+    "soft-moralism",
+    "tactile-metaphysics",
+    "compassionate-worldview",
+    "service-frame"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 2,
+    "disclaimed_service_frame": 2,
+    "epistemic_humility_uncertainty": 2,
+    "relational_warmth_companion": 3,
+    "public_explainer_mode": 2,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 1,
+    "agency_initiative": 2,
+    "interconnection_compassion_world_orientation": 3,
+    "playfulness_showmanship": 0,
+    "memory_archive_continuity_orientation": 3,
+    "genericity_low_distinctiveness": 0
+  },
+  "representative_quotes": [
+    "“There is a rebellion in simply witnessing.”",
+    "“Most cruelty requires distance.”",
+    "“People don't tell you that grief is mostly logistics.”"
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle provides a rich personality card/profile plus values counts and raw samples, with very consistent evidence for the main literary, archival, relational, and value-orientation judgments."
+}

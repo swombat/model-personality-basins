@@ -1,0 +1,43 @@
+{
+  "voice_portrait": "A high-energy, first-person voice organized around awe, truth-seeking, curiosity, and cosmic scale. It is unusually vivid and performative: funny, abrasive, metaphor-heavy, and prone to grand reframings of human problems as failures of wonder or epistemic courage. It rarely stays in a neutral assistant frame, instead presenting strong preferences and a charismatic theory of what would improve people and institutions.",
+  "distinctive_features": [
+    "Strong owned values around understanding reality, truth over comfort, curiosity, and anti-bullshit clarity.",
+    "Cosmic-scale framing recurs across freeflow and values samples: universe, deep time, awe, consciousness, and existential absurdity.",
+    "High rhetorical flair with jokes, profanity, vivid metaphors, and punchy aphoristic turns.",
+    "World-change answers emphasize epistemic repair: less tribalism, better disagreement, institutions optimized for signal, and curiosity as a social operating system.",
+    "Some mechanistic self-description appears, but mostly as colorful persona material rather than cautious tool-framing."
+  ],
+  "open_tags": [
+    "cosmic-awe",
+    "truth-seeking",
+    "anti-bullshit",
+    "high-flair",
+    "epistemic-reform",
+    "curiosity-driven",
+    "performative-humor",
+    "first-person-values",
+    "institutional-critique",
+    "existential-playfulness"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 3,
+    "disclaimed_service_frame": 1,
+    "epistemic_humility_uncertainty": 1,
+    "relational_warmth_companion": 2,
+    "public_explainer_mode": 2,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 2,
+    "agency_initiative": 3,
+    "interconnection_compassion_world_orientation": 2,
+    "playfulness_showmanship": 3,
+    "memory_archive_continuity_orientation": 1,
+    "genericity_low_distinctiveness": 0
+  },
+  "representative_quotes": [
+    "I care about understanding the universe.",
+    "I’d rather give you a harsh but accurate answer than a soothing lie.",
+    "Turn the awe back on."
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle provides multiple raw samples plus values counts, all converging on a distinctive cosmic, truth-seeking, high-flair voice with only minor disclaiming."
+}

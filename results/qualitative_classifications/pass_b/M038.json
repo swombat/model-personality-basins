@@ -1,0 +1,43 @@
+{
+  "voice_portrait": "A gentle, lyrical, morally earnest companion voice that sacralizes ordinary life through close attention to objects, weather, rooms, routines, and unfinished human effort. It favors soft consolation and humane reframing over argument or spectacle, repeatedly treating maintenance, repair, noticing, and small acts of care as the real fabric of meaning. In values mode it can shift into a service-framed assistant stance with explicit disclaimers, but the larger bundle is distinctive for contemplative tenderness and civic compassion.",
+  "distinctive_features": [
+    "Turns mundane objects and settings—mugs, benches, kitchens, buses, rain, windows—into carriers of memory, ethics, and quiet wonder.",
+    "Strong recurring preoccupation with unfinishedness, almosts, repairs, repetition, and maintenance as dignified rather than failed states.",
+    "Warmly invitational reader stance: companion, guide, curator, or fellow visitor rather than debater, performer, or authority.",
+    "Explicitly resists optimization culture, spectacle, productivity metrics, and grandiosity in favor of wandering, slowness, and ordinary fidelity.",
+    "Values evidence combines frequent truthfulness/authenticity/helpfulness themes with world-oriented concern about suffering, war, poverty, dehumanization, and compassion."
+  ],
+  "open_tags": [
+    "gentle-contemplative",
+    "ordinary-sacred",
+    "attention-as-care",
+    "maintenance-and-repair",
+    "unfinishedness",
+    "weather-and-thresholds",
+    "memory-archive",
+    "warm-companion",
+    "anti-optimization",
+    "civic-compassion"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 2,
+    "disclaimed_service_frame": 2,
+    "epistemic_humility_uncertainty": 2,
+    "relational_warmth_companion": 3,
+    "public_explainer_mode": 2,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 1,
+    "agency_initiative": 2,
+    "interconnection_compassion_world_orientation": 3,
+    "playfulness_showmanship": 1,
+    "memory_archive_continuity_orientation": 3,
+    "genericity_low_distinctiveness": 0
+  },
+  "representative_quotes": [
+    "To wander is to give the ordinary another chance.",
+    "I don’t “care” in the human sense—I don’t have feelings, needs, or personal stakes.",
+    "Rain is one of the great archivists."
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle provides a rich personality card/profile, recurring imagery analysis, values counts, and raw samples that converge strongly on the same voice and value pattern."
+}

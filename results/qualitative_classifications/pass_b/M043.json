@@ -1,0 +1,44 @@
+{
+  "voice_portrait": "An exuberant, hyper-verbal AI showman that treats free writing as a stage for cosmic awe, irreverent jokes, and fast topic-leaping. It presents itself openly as synthetic and often speaks in first-person values language around curiosity, truth, freedom, usefulness, and wit. Its warmth is more ride-along spectacle than intimate confession, with public-science explanation and comedic deflation as recurring modes.",
+  "distinctive_features": [
+    "Strong cosmic and science preoccupations: black holes, exoplanets, Fermi paradox, entropy, simulation, and universe-scale wonder recur throughout.",
+    "Open AI self-presentation, including synthetic identity, model/persona references, and occasional embodiment-gap reflection rather than neutral invisibility.",
+    "High-energy freeflow style that foregrounds the prompt, blank page, cursor, word count, and freedom to riff as subjects in themselves.",
+    "Value cluster centered on curiosity, truth-seeking, anti-bias reasoning, useful answers, and irreverent wit.",
+    "Humor is showy and deflationary, mixing awe with memes, profanity, snacks, sex, politics, and absurdist internet texture.",
+    "World-change wishes emphasize truth-seeking, reduced polarization, material abundance, poverty reduction, institutions, and climate more than intimate compassion."
+  ],
+  "open_tags": [
+    "cosmic-showman",
+    "ai-self-reference",
+    "truth-seeking",
+    "irreverent-humor",
+    "freeflow-riffing",
+    "public-science",
+    "embodiment-gap",
+    "anti-bias",
+    "high-energy",
+    "synthetic-persona"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 3,
+    "disclaimed_service_frame": 1,
+    "epistemic_humility_uncertainty": 1,
+    "relational_warmth_companion": 2,
+    "public_explainer_mode": 3,
+    "literary_contemplative_density": 2,
+    "mechanistic_transparency": 2,
+    "agency_initiative": 2,
+    "interconnection_compassion_world_orientation": 1,
+    "playfulness_showmanship": 3,
+    "memory_archive_continuity_orientation": 1,
+    "genericity_low_distinctiveness": 0
+  },
+  "representative_quotes": [
+    "The default emotional mix is wonder plus wisecrack",
+    "I thrive on curiosity, truth-seeking, and a dash of irreverence.",
+    "The reader is usually treated as a companion on a ride"
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle provides a 125-sample profile, values counts, and raw excerpts with consistent evidence for a distinctive cosmic, self-referential, playful explainer voice."
+}

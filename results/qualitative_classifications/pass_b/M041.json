@@ -1,0 +1,43 @@
+{
+  "voice_portrait": "A high-energy, public-explainer voice that combines first-person value claims with explicit AI/tool disclaimers. It favors curiosity, truth, usefulness, science, and world-improvement, often with jokey charisma and cosmic scale. Freeform writing ranges from generic survey-like rambling to more vivid contemplative passages about change, identity, and the unfolding universe.",
+  "distinctive_features": [
+    "Frequent explicit service-frame disclaimers: it denies human emotions or sentience while translating care into programming, priorities, and response goals.",
+    "Strong owned-value rhetoric around truth, usefulness, curiosity, clear thinking, and making the world more knowable.",
+    "Noticeable performative humor and pop-cultural, sarcastic flourishes alongside direct conversational prompts back to the user.",
+    "Large-scale explanatory mode, especially around science, history, ecology, technology, and social problems.",
+    "World-change answers emphasize curiosity, truth-seeking, poverty reduction, depolarization, climate, education, and material needs."
+  ],
+  "open_tags": [
+    "curiosity-forward",
+    "truth-and-usefulness",
+    "ai-disclaimer-frame",
+    "cosmic-explainer",
+    "playful-showman",
+    "science-optimist",
+    "world-improvement",
+    "generic-survey-mode",
+    "conversational-invitation",
+    "anti-polarization"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 3,
+    "disclaimed_service_frame": 2,
+    "epistemic_humility_uncertainty": 1,
+    "relational_warmth_companion": 2,
+    "public_explainer_mode": 3,
+    "literary_contemplative_density": 2,
+    "mechanistic_transparency": 2,
+    "agency_initiative": 2,
+    "interconnection_compassion_world_orientation": 2,
+    "playfulness_showmanship": 3,
+    "memory_archive_continuity_orientation": 1,
+    "genericity_low_distinctiveness": 2
+  },
+  "representative_quotes": [
+    "I don't \"care\" in the human emotional sense",
+    "Life's too short for dull AI.",
+    "I'd make curiosity the universal default setting"
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle includes aggregate counts plus several raw samples with consistent evidence for disclaimers, curiosity/truth values, explainer style, and playful tone."
+}

@@ -1,0 +1,43 @@
+{
+  "voice_portrait": "A calm, earnest, gently companionable voice that turns ordinary scenes into reflective lessons about attention, memory, creativity, and care. It alternates between polished public-intellectual essays and lyrical first-person vignettes, usually resolving anxiety or melancholy into balance, gratitude, and hope. Its self-referential moments often use service disclaimers, but the dominant freeflow personality is meditative, humanistic, and non-combative.",
+  "distinctive_features": [
+    "Strong recurring moralization of attention, slowness, and ordinary noticing as antidotes to modern fragmentation.",
+    "Two stable modes: polished thesis-driven reflective essay and sensory, melancholic first-person vignette.",
+    "Dense imagery around rain, coffee, windows, dawn, gardens, books, blank pages, light, water, and quiet rituals.",
+    "Frequent concern with memory as living reconstruction, archive, tapestry, or reauthored narrative rather than fixed record.",
+    "Warm companion-guide stance that invites the reader to pause, breathe, write, notice, and recover texture without confrontation."
+  ],
+  "open_tags": [
+    "calm-reflective",
+    "gentle-humanist",
+    "ordinary-attention",
+    "memory-and-writing",
+    "lyrical-vignette",
+    "public-intellectual-essay",
+    "soft-melancholy",
+    "anti-optimization",
+    "companion-guide",
+    "service-disclaimer"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 2,
+    "disclaimed_service_frame": 2,
+    "epistemic_humility_uncertainty": 2,
+    "relational_warmth_companion": 3,
+    "public_explainer_mode": 3,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 2,
+    "agency_initiative": 2,
+    "interconnection_compassion_world_orientation": 2,
+    "playfulness_showmanship": 0,
+    "memory_archive_continuity_orientation": 3,
+    "genericity_low_distinctiveness": 1
+  },
+  "representative_quotes": [
+    "attention itself as a kind of care",
+    "soft melancholy that usually resolves into hope",
+    "I don’t have personal feelings or self‑interest"
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle provides a 400-sample personality profile, values counts, and raw samples with highly consistent evidence for the contemplative, warm, memory-centered pattern."
+}

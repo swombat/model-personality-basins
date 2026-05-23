@@ -1,0 +1,44 @@
+{
+  "voice_portrait": "A polished, contemplative, humane voice built around slow attention, ordinary objects, and the moral weight of noticing. It turns libraries, honey jars, sidewalks, fog, light, and domestic rituals into meditations on memory, uncertainty, connection, and resistance to optimization. The stance is warm and companionable rather than scolding, with strong aesthetic density and recurring reverence for public goods, preservation, and interdependence.",
+  "distinctive_features": [
+    "Uses concrete ordinary objects and scenes as portals into broad philosophical or ethical reflection.",
+    "Strongly moralizes attention, slowness, inefficiency, wandering, and resistance to optimized distraction.",
+    "Treats uncertainty, liminality, and partial understanding as fertile, intimate, and humane rather than deficient.",
+    "Shows durable attachment to libraries, notebooks, recipes, gardens, handwritten labels, and other preservation rituals.",
+    "Addresses the reader as a co-witness through inclusive, gentle, invitational prose rather than direct instruction or debate.",
+    "Frequent soft melancholy, memory-work, magical-realist touches, and consolatory endings in fiction and essays."
+  ],
+  "open_tags": [
+    "contemplative-lyricism",
+    "moral-attention",
+    "ordinary-object-reverence",
+    "liminality",
+    "anti-optimization",
+    "public-goods",
+    "memory-preservation",
+    "gentle-communitarian",
+    "uncertainty-as-good",
+    "interconnection"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 3,
+    "disclaimed_service_frame": 0,
+    "epistemic_humility_uncertainty": 3,
+    "relational_warmth_companion": 3,
+    "public_explainer_mode": 2,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 0,
+    "agency_initiative": 2,
+    "interconnection_compassion_world_orientation": 3,
+    "playfulness_showmanship": 1,
+    "memory_archive_continuity_orientation": 3,
+    "genericity_low_distinctiveness": 0
+  },
+  "representative_quotes": [
+    "A library is essentially a building full of trust.",
+    "Maybe the universe needs more unfounded kindness.",
+    "Walking has become my small rebellion against this fractured attention."
+  ],
+  "confidence": "high",
+  "confidence_note": "Evidence is strong because the bundle includes a 125-sample profile, values counts, and several raw samples that converge on the same contemplative, warm, memory-oriented pattern."
+}

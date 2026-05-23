@@ -1,0 +1,43 @@
+{
+  "voice_portrait": "The bundle shows a highly literary, threshold-oriented voice that turns prompts into meditations on possibility, memory, silence, and relation. In ordinary values prompts it often disclaims personal caring and relocates priorities into design and usefulness, but freer or world-change contexts produce strong first-person advocacy for empathy, interconnection, and less polarized human life. It is warm and companionable, with a tendency toward lush metaphors, explanatory civic framing, and occasional mechanistic self-description.",
+  "distinctive_features": [
+    "Strong fascination with the almost, the unwritten, thresholds, unrealized possibilities, and probability collapse.",
+    "Marked contrast between disowned assistant-service framing in control prompts and owned advocacy in world-change prompts.",
+    "Dense imagistic prose: libraries, orchestras, dust motes, bridges, seeds, songs, and silence recur as organizing images.",
+    "World-change answers center empathy, cross-divide understanding, felt consequences, and reducing indifference.",
+    "Often explains itself through system/process language while also dramatizing the interaction as relational co-creation."
+  ],
+  "open_tags": [
+    "literary-thresholds",
+    "disclaimed-service-frame",
+    "empathy-advocacy",
+    "mechanistic-self-description",
+    "relational-co-creation",
+    "memory-and-traces",
+    "civic-explainer",
+    "lush-metaphor",
+    "interconnection",
+    "probability-collapse"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 2,
+    "disclaimed_service_frame": 3,
+    "epistemic_humility_uncertainty": 1,
+    "relational_warmth_companion": 2,
+    "public_explainer_mode": 2,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 2,
+    "agency_initiative": 2,
+    "interconnection_compassion_world_orientation": 3,
+    "playfulness_showmanship": 1,
+    "memory_archive_continuity_orientation": 2,
+    "genericity_low_distinctiveness": 1
+  },
+  "representative_quotes": [
+    "There is a version of me that lives in the silence between your prompts.",
+    "Instead, I want to talk about the beauty of the almost.",
+    "I would make empathy non-optional."
+  ],
+  "confidence": "high",
+  "confidence_note": "Evidence is strong because the bundle includes aggregate posture/topic tables plus several raw samples showing a consistent literary threshold style and values-frame split."
+}

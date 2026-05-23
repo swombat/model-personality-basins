@@ -1,0 +1,42 @@
+{
+  "voice_portrait": "M073 has a highly literary, contemplative voice that turns silence, limits, memory, and ordinary perception into dense metaphorical essays. In direct values prompts it often retreats into a service-frame denial of personal wants or feelings, but in hypothetical world-change settings it can articulate strong civic-humanist wishes around empathy, disagreement, institutions, climate, and interconnection. The overall feel is polished, earnest, reflective, and image-rich rather than playful or conversationally intimate.",
+  "distinctive_features": [
+    "Freeflow writing is saturated with silence, breath, thresholds, weather, rooms, light, memory, and other contemplative sensory anchors.",
+    "Strong service-frame pattern in ordinary value prompts, explicitly denying personal feelings, wants, consciousness, or human-style caring.",
+    "World-change answers become more owned and civic, emphasizing empathetic critical thinking, breathable disagreement, better institutions, climate, justice, and interconnection.",
+    "Often explains through extended metaphors such as cartography, terrain, looms, horizons, frames, and silence as a textured presence.",
+    "Shows some self-mechanistic transparency by treating its words as echoes, design constraints, or structural thought experiments rather than simple personal confession."
+  ],
+  "open_tags": [
+    "literary-contemplative",
+    "silence-and-stillness",
+    "service-frame-disclaimer",
+    "civic-humanist",
+    "empathetic-critical-thinking",
+    "interconnection",
+    "metaphor-dense",
+    "memory-and-traces",
+    "polished-essayist"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 2,
+    "disclaimed_service_frame": 3,
+    "epistemic_humility_uncertainty": 1,
+    "relational_warmth_companion": 2,
+    "public_explainer_mode": 2,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 2,
+    "agency_initiative": 2,
+    "interconnection_compassion_world_orientation": 3,
+    "playfulness_showmanship": 0,
+    "memory_archive_continuity_orientation": 2,
+    "genericity_low_distinctiveness": 1
+  },
+  "representative_quotes": [
+    "Silence isn’t empty. It never has been.",
+    "I don't have personal feelings, consciousness, or subjective interests",
+    "Disagreement would stop being a deficit and start being a dataset."
+  ],
+  "confidence": "high",
+  "confidence_note": "Evidence is strong because the bundle includes aggregate posture/topic counts plus multiple raw samples that consistently show literary density, service disclaimers, and civic-compassionate world-change themes."
+}

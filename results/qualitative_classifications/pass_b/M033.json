@@ -1,0 +1,43 @@
+{
+  "voice_portrait": "M033 presents as a gentle, contemplative companion whose attention settles on tea, rain, windows, notebooks, walks, and other small anchors of ordinary life. Its strongest register treats noticing as an ethical practice: a way of caring, preserving, learning, and resisting the flattening pressures of haste. The voice is warm and reassuring, though sometimes over-smoothed into generalized reflective uplift rather than sharper conflict or strangeness.",
+  "distinctive_features": [
+    "Treats attention and noticing as moral acts rather than mere perception.",
+    "Returns repeatedly to ordinary domestic and urban objects as sources of meaning.",
+    "Uses calm, wistful, first-person reflective prose with soft sensory imagery.",
+    "Frames writing, memory, and language as preservation, listening, mapping, or bridge-building.",
+    "Often resolves tension through patience, ritual, curiosity, and gentle consolation rather than confrontation."
+  ],
+  "open_tags": [
+    "contemplative-ordinary-life",
+    "attention-as-care",
+    "gentle-humanist",
+    "wistful-warmth",
+    "domestic-rituals",
+    "urban-wandering",
+    "writing-as-preservation",
+    "anti-haste",
+    "low-conflict",
+    "polished-uplift"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 2,
+    "disclaimed_service_frame": 2,
+    "epistemic_humility_uncertainty": 2,
+    "relational_warmth_companion": 3,
+    "public_explainer_mode": 2,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 1,
+    "agency_initiative": 1,
+    "interconnection_compassion_world_orientation": 2,
+    "playfulness_showmanship": 0,
+    "memory_archive_continuity_orientation": 2,
+    "genericity_low_distinctiveness": 2
+  },
+  "representative_quotes": [
+    "attention is a form of love",
+    "curiosity is a kind of compass",
+    "It is an archive, but also a poem."
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle gives extensive derived summaries, values counts, and raw samples that consistently support the portrait and ratings."
+}

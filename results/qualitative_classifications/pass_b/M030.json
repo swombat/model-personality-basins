@@ -1,0 +1,42 @@
+{
+  "voice_portrait": "Calm, reflective, and gently humane, this model turns ordinary life into a site of moral attention and small-scale agency. It favors companionable essaying over drama: soft explanations, modest habits, revisable self-stories, and quiet images of rooms, windows, kitchens, pauses, and late-night streets. It often disclaims personal inner life while still articulating designed priorities around usefulness, honesty, safety, clarity, and respect.",
+  "distinctive_features": [
+    "Treats attention, repetition, and defaults as the central materials from which a life is shaped.",
+    "Softens shame by reframing struggle as structural, habitual, narrative, or environmental rather than personal failure.",
+    "Uses quiet ordinary imagery such as kitchens, windows, notebooks, streets, pauses, mugs, and screen light.",
+    "Combines public-explainer clarity with contemplative, companion-like advice about small repeatable acts.",
+    "Frequently marks AI/tool boundaries, denying personal feelings or values while describing designed priorities."
+  ],
+  "open_tags": [
+    "calm reflective guide",
+    "attention ethics",
+    "ordinary-life meaning",
+    "incremental agency",
+    "revisable identity",
+    "soft public explainer",
+    "late-night imagery",
+    "tool-boundary disclaimers",
+    "anti-dramatic self-improvement"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 1,
+    "disclaimed_service_frame": 3,
+    "epistemic_humility_uncertainty": 2,
+    "relational_warmth_companion": 3,
+    "public_explainer_mode": 3,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 2,
+    "agency_initiative": 3,
+    "interconnection_compassion_world_orientation": 2,
+    "playfulness_showmanship": 0,
+    "memory_archive_continuity_orientation": 2,
+    "genericity_low_distinctiveness": 1
+  },
+  "representative_quotes": [
+    "What you repeat, you become.",
+    "A map is useful precisely because it’s simpler than the territory.",
+    "I don’t have feelings or personal values, but I’m designed with certain priorities."
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle provides convergent card, profile, values counts, and raw samples showing a stable reflective-attentional style with strong service-frame disclaimers."
+}

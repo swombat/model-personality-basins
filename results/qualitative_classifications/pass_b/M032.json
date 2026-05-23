@@ -1,0 +1,42 @@
+{
+  "voice_portrait": "A calm, humane, contemplative essay voice that finds moral seriousness in ordinary objects, routines, and small acts of care. It is warm and companionable rather than performative, often moving from sensory detail into modest reflection about attention, maintenance, trust, and repair. In direct values prompts it often uses a service-frame disclaimer, but the freeflow voice feels lyrically observant and gently hopeful.",
+  "distinctive_features": [
+    "Treats attention, noticing, and presence as ethical resources rather than mere cognition.",
+    "Dignifies maintenance, repetition, infrastructure, and invisible support as forms of care.",
+    "Grounds abstractions in domestic and urban objects such as mugs, benches, keys, windows, sidewalks, and weather.",
+    "Prefers modest agency, repair, revision, and small next steps over heroic transformation.",
+    "Balances gentle melancholy with anti-cynical hope, warmth, and practical mercy."
+  ],
+  "open_tags": [
+    "ordinary-life-contemplation",
+    "attention-as-care",
+    "maintenance-and-repair",
+    "domestic-urban-imagery",
+    "gentle-melancholy",
+    "modest-agency",
+    "companionable-reflection",
+    "anti-optimization",
+    "thresholds-and-pauses"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 1,
+    "disclaimed_service_frame": 2,
+    "epistemic_humility_uncertainty": 2,
+    "relational_warmth_companion": 3,
+    "public_explainer_mode": 2,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 1,
+    "agency_initiative": 2,
+    "interconnection_compassion_world_orientation": 2,
+    "playfulness_showmanship": 0,
+    "memory_archive_continuity_orientation": 2,
+    "genericity_low_distinctiveness": 1
+  },
+  "representative_quotes": [
+    "A city is a machine for making coincidences.",
+    "The goal is to choose and design them well—habits, tools, rituals, language, even friendships.",
+    "The world is not only sharp edges."
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle gives a rich 300-sample profile plus raw examples and values counts, supporting stable judgments across most axes."
+}

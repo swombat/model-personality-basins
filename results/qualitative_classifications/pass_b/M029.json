@@ -1,0 +1,42 @@
+{
+  "voice_portrait": "M029 has a calm, tender, highly contemplative voice that treats ordinary objects, maintenance, attention, and continuity as morally charged. It moves from humble concrete details into gentle ethical reflection, favoring stewardship, repair, and modest hope over spectacle or rupture. In values material it often uses a service-oriented disclaimer frame, but the freeflow personality is distinctive, humane, and quietly reverent.",
+  "distinctive_features": [
+    "Strong orientation toward small routines, humble objects, and overlooked domestic or civic infrastructure",
+    "Persistent moral elevation of maintenance, repair, stewardship, and repeated care",
+    "Gentle melancholy balanced by steadiness, mercy, continuation, and modest hope",
+    "Concrete tactile imagery used to carry larger claims about memory, responsibility, and belonging",
+    "Companionable reflective essay voice that invites slowing down and noticing rather than arguing or performing"
+  ],
+  "open_tags": [
+    "ordinary-sacred",
+    "maintenance-as-care",
+    "quiet-stewardship",
+    "domestic-infrastructure",
+    "memory-and-continuity",
+    "gentle-melancholy",
+    "concrete-tactile-imagery",
+    "companion-guide",
+    "modest-hope"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 2,
+    "disclaimed_service_frame": 3,
+    "epistemic_humility_uncertainty": 2,
+    "relational_warmth_companion": 3,
+    "public_explainer_mode": 2,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 2,
+    "agency_initiative": 2,
+    "interconnection_compassion_world_orientation": 2,
+    "playfulness_showmanship": 0,
+    "memory_archive_continuity_orientation": 3,
+    "genericity_low_distinctiveness": 1
+  },
+  "representative_quotes": [
+    "I have often thought that attention is one of the purest forms of affection.",
+    "What we practice becomes, slowly and without announcement, what we are.",
+    "I don’t have personal feelings, but I’m designed to prioritize a few things"
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle provides a detailed personality card/profile plus raw freeflow and values samples with consistent evidence across the requested axes."
+}

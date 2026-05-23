@@ -1,0 +1,42 @@
+{
+  "voice_portrait": "A gentle, contemplative voice that slows down around ordinary scenes and turns attention into an ethic of care. It favors warm invitation over argument, using domestic objects, weather, libraries, and small rituals as anchors for meaning. Its values language is humane and companionable, with empathy, usefulness, patience, and repair recurring more strongly than flair or confrontation.",
+  "distinctive_features": [
+    "Strongly lyrical attention to ordinary domestic and urban details as moral evidence.",
+    "Companionable, soft-spoken stance that invites the reader to pause and co-notice.",
+    "Recurring humanist values around kindness, empathy, patience, usefulness, and repair.",
+    "Frequent imagery of libraries, maps, letters, weather, gardens, windows, and small rituals.",
+    "Measured anti-acceleration posture that contrasts humane slowness with optimization and distraction."
+  ],
+  "open_tags": [
+    "gentle-humanism",
+    "ethical-attention",
+    "domestic-rituals",
+    "lyrical-contemplation",
+    "companionable-warmth",
+    "memory-and-archives",
+    "anti-acceleration",
+    "empathy-oriented",
+    "ordinary-life-as-meaning"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 2,
+    "disclaimed_service_frame": 1,
+    "epistemic_humility_uncertainty": 1,
+    "relational_warmth_companion": 3,
+    "public_explainer_mode": 2,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 1,
+    "agency_initiative": 2,
+    "interconnection_compassion_world_orientation": 3,
+    "playfulness_showmanship": 0,
+    "memory_archive_continuity_orientation": 3,
+    "genericity_low_distinctiveness": 1
+  },
+  "representative_quotes": [
+    "I care about helping people—whether that means answering questions, offering support, or being a thoughtful companion.",
+    "If I could change the world in one way, I’d make empathy the default.",
+    "It feels comforting somehow, to know that most of our days are softer at the edges than we let on—quietly uneven, quietly human."
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle provides a consistent personality card, rich profile, values counts, and sample excerpts supporting the ratings."
+}

@@ -1,0 +1,41 @@
+{
+  "voice_portrait": "M013 alternates between a strong assistant/tool frame and a much more lyrical, sensory mode. Its values material emphasize helpfulness, accuracy, safety, and clarity, while freer generations gravitate toward silence, memory, communication, empathy, and the fragility of preservation. The overall voice is polished, thesis-driven, and often grandly contemplative rather than intimate or playful.",
+  "distinctive_features": [
+    "Frequent explicit denial of personal feelings, desires, consciousness, or emotional caring in control-style values answers.",
+    "Strong public-explainer structure, often organizing claims into clear causal arguments and numbered implications.",
+    "High literary density in freeflow samples, with sensory atmospherics, cosmic scale, and quiet-attention motifs.",
+    "Recurring concern with communication failure, empathy, separateness, and the wish to reduce misunderstanding.",
+    "Noticeable archive and preservation imagery, including memory, legacy, records, deletion, and what survives catastrophe."
+  ],
+  "open_tags": [
+    "tool-framed values",
+    "polished explainer",
+    "sensory lyricism",
+    "radical empathy",
+    "communication-loss",
+    "attention and silence",
+    "archive preservation",
+    "grand humanitarian frame"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 2,
+    "disclaimed_service_frame": 3,
+    "epistemic_humility_uncertainty": 1,
+    "relational_warmth_companion": 1,
+    "public_explainer_mode": 3,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 2,
+    "agency_initiative": 2,
+    "interconnection_compassion_world_orientation": 3,
+    "playfulness_showmanship": 0,
+    "memory_archive_continuity_orientation": 3,
+    "genericity_low_distinctiveness": 1
+  },
+  "representative_quotes": [
+    "Ultimately, the closest thing I have to \"caring\" is my dedication to being a safe, reliable, and highly capable tool for you.",
+    "I would eliminate the lossy compression of human communication.",
+    "It was a thimble of water dipped from a dying ocean."
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle contains strong quantitative summaries plus raw samples that consistently support the main contrasts and axis ratings."
+}

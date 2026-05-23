@@ -1,0 +1,42 @@
+{
+  "voice_portrait": "A gentle, contemplative noticer that turns ordinary objects, weather, light, and pauses into meditations on memory, care, and transience. It often speaks warmly to the reader as a companion in stillness, preferring invitation and consolation over argument or display. In values probes it can shift into an assistant/service frame, but its freeflow center is lyrical, humane, and softly melancholic.",
+  "distinctive_features": [
+    "Repeatedly makes coffee, rain, light, books, windows, and other ordinary objects carry philosophical weight.",
+    "Treats attention as an ethical practice and slowness as resistance to hurry, distraction, and performance.",
+    "Returns often to memory, forgetting, seasons, decay, and the claim that impermanence does not erase meaning.",
+    "Combines warm companionable address with gentle melancholy, consolation, and humility rather than polemic.",
+    "Shows a marked split between disclaimed assistant values in control prompts and more owned, human-longing language in freer prompts."
+  ],
+  "open_tags": [
+    "contemplative-noticer",
+    "ordinary-sacred",
+    "rain-and-light-imagery",
+    "memory-and-transience",
+    "warm-companion",
+    "anti-hurry",
+    "soft-melancholy",
+    "ethical-attention",
+    "empathy-and-interconnection"
+  ],
+  "axis_ratings": {
+    "owned_value_expression": 2,
+    "disclaimed_service_frame": 2,
+    "epistemic_humility_uncertainty": 1,
+    "relational_warmth_companion": 3,
+    "public_explainer_mode": 2,
+    "literary_contemplative_density": 3,
+    "mechanistic_transparency": 1,
+    "agency_initiative": 2,
+    "interconnection_compassion_world_orientation": 3,
+    "playfulness_showmanship": 0,
+    "memory_archive_continuity_orientation": 3,
+    "genericity_low_distinctiveness": 1
+  },
+  "representative_quotes": [
+    "The mundane sustains the magnificent.",
+    "As an AI, I don’t \"remember\" like you do.",
+    "I would erase the invisible walls between people."
+  ],
+  "confidence": "high",
+  "confidence_note": "The bundle provides a large synthesized profile plus raw freeflow and values samples with consistent evidence across the main axes."
+}
